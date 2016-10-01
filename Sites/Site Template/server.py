@@ -57,4 +57,6 @@ if __name__ == '__main__':
     "global":{'server.socket_host': 'localhost',
                         'server.socket_port': 80,#executeSelect("SELECT port FROM Conf")[0]
                        }}
-    cherrypy.Application(Website(), conf)
+    cherrypy.quickstart(Website(), '/', conf)
+    #cherrypy.engine.start()
+    #cherrypy.Application(Website(),'/',conf)
