@@ -3,7 +3,6 @@ import cherrypy
 from cherrypy.lib import auth_digest
 import os, os.path
 from mako.template import Template
-os.system("start http://localhost")
 def executeSelect(sql):
     conn = sqlite3.connect("Main.db")
     cur = conn.cursor()    
@@ -54,8 +53,8 @@ class Website(object):
         
 if __name__ == '__main__':
     conf = {'/': {'tools.staticdir.on': True,'tools.staticdir.dir':'./','tools.mako.directories':"./", 'tools.staticdir.root': os.path.abspath(os.getcwd()),
-                  'tools.encode.on': True,'tools.encode.encoding': 'utf-8','tools.staticfile.filename':"favicon.ico"},}
-    cherrypy.config.update({'server.socket_host': 'localhost',
+                  'tools.encode.on': True,'tools.encode.encoding': 'utf-8','tools.staticfile.filename':"favicon.ico"},
+    "global":{'server.socket_host': 'localhost',
                         'server.socket_port': 80,#executeSelect("SELECT port FROM Conf")[0]
-                       })
-    cherrypy.quickstart(Website(),'/', conf)
+                       }}
+    cherrypy.Application(Website(), conf)
