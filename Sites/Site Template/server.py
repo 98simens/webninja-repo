@@ -54,9 +54,7 @@ class Website(object):
 if __name__ == '__main__':
     conf = {'/': {'tools.staticdir.on': True,'tools.staticdir.dir':'./','tools.mako.directories':"./", 'tools.staticdir.root': os.path.abspath(os.getcwd()),
                   'tools.encode.on': True,'tools.encode.encoding': 'utf-8','tools.staticfile.filename':"favicon.ico"},
-    "global":{'server.socket_host': 'localhost',
+    "global":{'server.socket_host': '192.168.1.43',
                         'server.socket_port': 80,#executeSelect("SELECT port FROM Conf")[0]
                        }}
     cherrypy.quickstart(Website(), '/', conf)
-    #cherrypy.engine.start()
-    #cherrypy.Application(Website(),'/',conf)
