@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html charset="UTF-8">
+<head>
+<title>edit</title>
+<script src="/js/jquery-3.1.0.js"></script>
+<script src="/js/tinymce.min.js"></script>
+<script>  tinymce.init({
+    selector: '.mytextarea',
+	plugin: 'a_tinymce_plugin',
+  a_plugin_option: true,
+  a_configuration_option: 400,
+    plugins: [
+    'advlist autolink lists link image charmap print preview hr anchor pagebreak',
+    'searchreplace wordcount visualblocks visualchars code fullscreen',
+    'insertdatetime media nonbreaking save table contextmenu directionality',
+    'emoticons template paste textcolor colorpicker textpattern imagetools'
+  ],
+  toolbar1: 'insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image',
+  toolbar2: 'print preview media | forecolor backcolor emoticons',
+});
+  </script>
+</head>
+<body>
+%for item in attributes:
+
+<form method="POST" action="EditContent">
+<h1>${item[2]}</h1>
+<input name="contentID" type="text" value='${item[1]}' style="display:none"/>
+%if item[3] == "INPUT":
+	<input type="text" name="content" value='${item[0]}'/>
+	
+%elif item[3] == "TEXTAREA":
+	<textarea class="mytextarea" name="content" >${item[0]}</textarea>
+	
+%endif
+
+<button type="submit">Send</button>
+</form>
+
+%endfor
+</body>
+</html>
