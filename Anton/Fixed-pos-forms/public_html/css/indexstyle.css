@@ -1,0 +1,98 @@
+html {
+    font-family: helvetica;
+}
+
+body {
+    background-color: burlywood;
+}
+
+#forms-button {
+    background-color: tomato;
+    transition: 0.2s;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 10px;
+}
+
+#forms-button:hover {
+    background-color: orangered;
+}
+
+.test {
+    background-color: black;
+}
+
+#forms-button form {
+    color: white;
+    padding: 20px;
+    display: none;
+}
+
+#forms-button form p {
+    margin: 5px 0;
+}
+
+#forms-button form input[type="text"] {
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    outline: none;
+    transition: 0.5s;
+}
+
+#forms-button form textarea {
+    width: 300px;
+    height: 250px;
+    padding: 5px;
+    margin: 0;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
+#forms-button form input[type="text"]:focus {
+    padding-left: 10px;
+    width: 295px;
+}
+
+#forms-button form button {
+    transition: 0.2s;
+    background-color: green;
+    width: 310px;
+    height: 25px;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#forms-button form button:hover {
+    border: 2px darkolivegreen solid;
+}
+
+#forms-button form button:active {
+    background-color: darkolivegreen;
+}
+
+#forms-button #forms-quit {
+    z-index: 1000;
+    transition: 0.2s;
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    display: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 10px;
+    border: 2px solid darkolivegreen;
+}
+
+#forms-button #forms-quit:hover {
+    border: 2px solid olive;
+}
