@@ -1,7 +1,369 @@
+@font-face {
+    font-family: timeless;
+    src: url("../font/Timeless.ttf");
+}
+
+html {
+    font-family: timeless;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+}
+
+.clear {
+    clear: both;
+    min-height: 0%;
+}
+
+header {
+    background: url("../img/comp_header.jpg");
+    background-size: 1920px;
+    width: 100%;
+    height: 512px;
+    text-align: center;
+    margin: 0;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+#header-img {
+    float: left;
+    width: 50%;
+    height: 512px;
+    margin: 0 auto;
+}
+
+#header-img img {
+    width: 250px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#header-text {
+    float: left;
+    width: 50%;
+    height: 512px;
+    font-size: 50px;
+    line-height: 512px;
+    color: white;
+}
+
+nav.main-nav {
+    background-color: white;
+    width: 100%;
+    height: 59px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+	z-index:10000;
+}
+
+nav.main-nav ul {
+    list-style: none;
+    margin: 0 0 0 -38px;
+}
+
+nav.main-nav ul li {
+    float: left;
+}
+
+nav.main-nav ul li a {
+    margin: 0;
+    display: block;
+    text-decoration: none;
+    padding: 20px 50px;
+    color: black;
+}
+
+nav.main-nav ul li a:hover {
+    background-color: #f2f2f2;
+}
+
+.fixed-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+article {
+    margin-top: 100px;
+    height: 1000px;
+}
+
+article #article-text {
+    margin: 0 auto;
+    width: 1024px;
+}
+
+article #article-text h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: #f2f2f2;
+    width: 100%;
+    min-height: 256px;
+    box-shadow: 0 -10px 25px rgba(0, 0, 0, 0.2);
+}
+
+footer #copy-div {
+    text-align: center;
+    line-height: 256px;
+    display: block;
+    cursor: pointer;
+    width: 256px;
+    margin: 0 auto;
+}
+
+footer #info-div {
+    display: none;
+    width: 512px;
+    margin: 0 auto;
+}
+
+/* Micke css*/
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#centrera {
+    width: 51%;
+    margin: 0 auto;
+}
+
+
+
+#contactForm{
+    max-width: 100%;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#contactForm h1{
+	text-align:center;
+}
+
+
+.row2 {
+    width: 100%;
+    position: relative;
+}
+
+.row2 textarea {
+    width: 100%;
+}
+
+.message {
+    clear: left;
+    width: 100%;
+    position: relative; 
+}
+
+#submit_button {
+    position: relative;
+    width: 15%;
+}
+
+.message textarea {
+   resize: none;
+   width: 100%;
+  
+}
+.message textarea:focus {
+    height: 250px;
+    
+   
+}
+
+textarea {
+   resize: none;
+   border-radius: 5px;
+   padding-left: 0px;
+   outline: none;
+  
+   
+
+   
+}
+
+button {
+    border-radius: 5px;
+    font-size: 14px;
+    padding: 20px;
+    color: #fff;
+    background-color: #900;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover {
+    background-color: #b00;
+}
+
+/* Simon css*/
+@font-face{
+    font-family: Timeless;
+    src:url(../font/Timeless.ttf)
+}
+
+*{
+    padding:0;
+}
+
+
+
 #Header{
-	background-image:url("../img/code_header.jpg");
-	background-size:1920px;
-	height:500px;
+	background-image:url("../img/computer_header.jpg");
+	background-position-x:-200px;
+	height:650px;
 	width:100%;
 	background-repeat:no-repeat;
+    text-align: left;
+    padding-right: 10%;
+	margin-top:70px;
+        
+}
+h2{
+    margin:0px;
+    padding:0;
+    font-family:Timeless;
+}
+
+.logo{
+    width:100px;
+    padding-bottom: 15px;
+}
+
+#Header h2{
+    color:#555;
+    padding:70px 0 25px 0;
+    font-size:70px;
+    text-shadow: 5px 5px 10px #ccc;
+}
+
+#Header p{
+    color:#555;
+    font-size:20px;
+}
+
+#Header #text{
+    width:50%;
+	margin-top:70px;
+    position:relative;
+    left:50%;
+    height:400px;
+    overflow-y:auto;
+	text-shadow: 1px 1px 0px #ccc;
+}
+
+#About{
+    display:inline-block;
+    padding:70px 0 0 100px;
+}
+
+#About div img{
+    width:100%;
+    border-radius: 5px;
+}
+
+@media(min-width:992px){
+#aboutImgCont{
+    padding-right:100px;
+}
+}
+
+@media(max-width:992px){
+#aboutImgCont{
+    padding-bottom:50px;
+}
+}
+
+#about_text{
+    width:60%;
+}
+
+#about_text{
+    font-family: Timeless;
+    
+}
+
+#tabs li{
+    list-style:none;
+    display:inline-block;
+}
+
+#tabs li a{
+    display:inline-block;
+    color:#ccc;
+    padding:0!important;
+    margin-right:20px;
+    transition:200ms;
+    text-decoration: none;
+}
+
+#tabs li a:hover{
+    color:black;
+    font-weight: bolder!important;
+    text-shadow: 5px 5px 10px #333;
+    
+}
+
+#tabs .active a{
+    color:black!important;
+}
+
+#AboutSeperator{
+    font-size:35px;
+    margin-right: 20px;
+}
+
+#tab_content li{
+    display:none;
+    transition:200ms;
+}
+
+#tab_content .active{
+    display:initial!important;
+}
+
+#tab_content p{
+    height:250px;
+	padding-bottom:50px;
+}
+
+#offers{
+    text-align: center;
+    padding:70px 50px 0 50px;
+}
+
+#offers div img{
+    width:100%;
+    border-radius: 5px;
+    background-color: grey;
+    opacity:0.8;
+}
+
+#offers * hr{
+    width:40%;
+	position:relative;
+	left:30%;
+}
+
+#offers div h2{
+    margin-top:30px;
+}
+
+#spacing{
+	background-image:url("../img/DatorPaper.jpg");
+	background-repeat:no-repeat;
+	background-size:1920px;
+	height:600px;
 }

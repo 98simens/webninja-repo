@@ -1,0 +1,76 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#centrera {
+    width: 51%;
+    margin: 0 auto;
+}
+
+
+
+#contactForm{
+    max-width: 100%;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.row {
+    width: 100%;
+    position: relative;
+}
+
+.row textarea {
+    width: 100%;
+}
+
+.message {
+    clear: left;
+    width: 100%;
+    position: relative; 
+}
+
+#submit_button {
+    position: relative;
+    width: 15%;
+}
+
+.message textarea {
+   resize: none;
+   width: 100%;
+  
+}
+.message textarea:focus {
+    height: 250px;
+    
+   
+}
+
+textarea {
+   resize: none;
+   border-radius: 10px;
+   padding-left: 10px;
+   outline: none;
+  
+   
+
+   
+}
+
+button {
+    border-radius: 10px;
+    font-size: 14px;
+    padding: 20px;
+    color: #fff;
+    background-color: #900;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover {
+    background-color: #b00;
+}
+
