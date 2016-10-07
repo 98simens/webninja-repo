@@ -1,0 +1,14 @@
+$(document).ready(function() {
+    
+    $(".fix-form").click(function(){
+        $(this).addClass("extended");
+    });
+    
+    $(window).click(function(e) {
+        var myClass = e.target.getAttribute("class");
+        if(myClass !== "fix-form extended") {
+            $(".fix-form").removeClass("extended");
+        }
+    });
+    
+});
