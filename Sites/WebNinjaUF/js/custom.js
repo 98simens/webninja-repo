@@ -30,15 +30,15 @@ $(document).on("scroll", function() {
 
 /* - Fixed Navbar jQuery - */
 $(document).on("scroll", function() {
-    if ($(window).scrollTop() > 512) {
+	if ($(window).scrollTop() > 512) {
 		if($(".main-nav").className !== "main-nav fixed-nav") {
         $(".main-nav").addClass("fixed-nav");
-        $("article").css("margin-top", "160px");
+        $("#offers").css("margin-top", "59px");
     }
 	}
 	else{
         $(".main-nav").removeClass("fixed-nav");
-        $("article").css("margin-top", "100px");
+        $("#offers").css("margin-top", "0px");
     }
 });
 
