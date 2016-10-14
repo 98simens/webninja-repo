@@ -292,7 +292,7 @@ h2{
 }
 
 #about_text{
-    font-family: Timeless;
+    font-family: timeless;
     
 }
 
@@ -367,4 +367,13 @@ h2{
 	background-repeat:no-repeat;
 	background-size:150%;
 	height:600px;
+}
+
+#priser {
+    text-align: center;
+    padding-left: 25px;
+}
+
+*{
+    font-family: timeless!important;
 }
