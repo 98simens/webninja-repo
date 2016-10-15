@@ -1,0 +1,95 @@
+html {
+    font-family: arial;
+}
+
+body {
+    background-color: burlywood;
+}
+
+#backToTop {
+    display: none;
+    background-color: tomato;
+    transition: 0.2s;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#backToTop:hover {
+    background-color: red;
+}
+
+#container {
+    width: 1024px;
+    min-height: 256px;
+    margin: 0 auto;
+}
+
+#offers, #intro, #contact {
+    background-color: white;
+    height: 1024px;
+    width: 1024px;
+}
+
+.clear {
+    height: 0;
+    margin: 0;
+    clear: both;
+}
+
+header {
+    background-color: white;
+    height: 150px;
+    width: 1024px;
+    text-align: center;
+}
+
+/* NAVBAR */
+
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+    width: 1074px;
+    padding-top: -20px;
+    transform: translateX(-50%);
+}
+
+.fixed ul {
+    margin: 0;
+}
+
+nav.main-nav {
+    background-color: white;
+}
+
+nav.main-nav ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+nav.main-nav ul li {
+    float: left;
+}
+
+nav.main-nav ul li a {
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    display: block;
+    transition: 0.2s;
+}
+
+nav.main-nav ul li a:hover {
+    background-color: #f2f2f2;
+}
+
+.mobile {
+    background-color: red;
+}
