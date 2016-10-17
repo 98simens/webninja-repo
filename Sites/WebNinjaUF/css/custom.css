@@ -1,6 +1,6 @@
 @font-face {
     font-family: timeless;
-    src: url("../font/Timeless.ttf");
+    src: url("../fonts/Timeless.ttf");
 }
 
 html {
@@ -227,8 +227,6 @@ button:hover {
 	height:650px;
 	width:100%;
 	background-repeat:no-repeat;
-    text-align: left;
-    padding-right: 10%;
 	margin-top:70px;
         
 }
@@ -243,26 +241,13 @@ h2{
     padding-bottom: 15px;
 }
 
-#Header h2{
-    color:#555;
-    padding:70px 0 25px 0;
+
+#Header div p{
+    color:#fff;
     font-size:70px;
-    text-shadow: 5px 5px 10px #ccc;
-}
-
-#Header p{
-    color:#555;
-    font-size:20px;
-}
-
-#Header #text{
-    width:50%;
-	margin-top:70px;
-    position:relative;
-    left:50%;
-    height:400px;
-    overflow-y:auto;
-	text-shadow: 1px 1px 0px #ccc;
+    text-align:center;
+    text-shadow: 5px 5px 10px #333;
+    line-height:600px;
 }
 
 #About{
@@ -288,12 +273,7 @@ h2{
 }
 
 #about_text{
-    width:60%;
-}
-
-#about_text{
-    font-family: timeless;
-    
+    width:80%;
 }
 
 #tabs li{
@@ -367,6 +347,14 @@ h2{
 	background-repeat:no-repeat;
 	background-size:150%;
 	height:600px;
+}
+
+#spacing h2{
+	font-size:70px;
+	line-height:550px;
+	text-align:center;
+	color:#fff;
+	text-shadow: 5px 5px 10px #333;
 }
 
 #priser {
