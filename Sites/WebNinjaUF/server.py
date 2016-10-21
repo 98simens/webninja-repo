@@ -6,7 +6,7 @@ from mako.template import Template
 class Website(object):
     @cherrypy.expose
     def index(self):
-        return Template(open('index.html').read().encode("cp1252","ignore")).render()
+        return Template(open('index.html').read()).render()
         
         
 if __name__ == '__main__':
