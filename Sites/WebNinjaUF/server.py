@@ -2,11 +2,12 @@ import cherrypy
 from cherrypy.lib import auth_digest
 import os, os.path
 from mako.template import Template
+import sys
 
 class Website(object):
     @cherrypy.expose
     def index(self):
-        return Template(open('index.html').read().encode("utf8","ignore")).render()
+        return Template(open('index.html').read().encode("cp1252","ignore")).render()
         
         
 if __name__ == '__main__':
