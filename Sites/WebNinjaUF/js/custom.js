@@ -6,7 +6,6 @@ function tabClick(elem){
     }
     elem.parentElement.className = "active";
     for(var i = 0; i < elements.length; i++){
-        console.log(elements[i].id);
         if(elem.getAttribute("data-target") === elements[i].id){
             elements[i].className = "active";
         }
@@ -47,3 +46,8 @@ $("footer").click(function() {
     $("#info-div").slideToggle();
     $(document).scrollTop($(document).height());
 });
+
+function scrollToDest(elem) {
+	/*var destination = $("#" + elem).offset().top;
+	$("body, html").animate("scrollTop: destination");*/
+}

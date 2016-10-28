@@ -4,10 +4,12 @@ import os, os.path
 from mako.template import Template
 import sys
 
+
+#.encode("cp1252","ignore")
 class Website(object):
     @cherrypy.expose
     def index(self):
-        return Template(open('index.html').read().encode("cp1252","ignore")).render()
+        return Template(open('index.html').read()).render()
         
         
 if __name__ == '__main__':

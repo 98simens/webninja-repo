@@ -14,7 +14,8 @@ body {
 
 .clear {
     clear: both;
-    min-height: 0%;
+    height: 0;
+	margin: 0;
 }
 
 header {
@@ -60,20 +61,22 @@ nav.main-nav {
     height: 59px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
 	z-index:10000;
+	text-align:center;
 }
 
 nav.main-nav ul {
     list-style: none;
-    margin: 0 0 0 -38px;
+    margin: 0 0 0 0px;
 }
 
 nav.main-nav ul li {
-    float: left;
+    float: center;
+	display:inline;
 }
 
 nav.main-nav ul li a {
     margin: 0;
-    display: block;
+    display: inline-block;
     text-decoration: none;
     padding: 20px 50px;
     color: black;
