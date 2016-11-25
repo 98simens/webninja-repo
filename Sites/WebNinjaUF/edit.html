@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html charset="UTF-8">
+<head>
+<title>edit</title>
+<script src="/js/jquery-3.1.0.js"></script>
+<script src="/js/tinymce.min.js"></script>
+<script>  tinymce.init({
+    selector: 'textarea',
+	plugin: 'a_tinymce_plugin',
+  a_plugin_option: true,
+  a_configuration_option: 400,
+    plugins: [
+    'advlist autolink lists link image charmap print preview hr anchor pagebreak',
+    'searchreplace wordcount visualblocks visualchars code fullscreen',
+    'insertdatetime media nonbreaking save table contextmenu directionality',
+    'emoticons template paste textcolor colorpicker textpattern imagetools'
+  ],
+  toolbar1: 'insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image',
+  toolbar2: 'print preview media | forecolor backcolor emoticons',
+});
+  </script>
+</head>
+<body>
+%for item in attributes[0]:
+<form method="POST" action="edit_cont">
+${attributes[1][item[2]].replace("{Name}",item[3]).replace("{Value}",item[1]).replace("{ContID}",str(item[0]))}
+<button type="submit">Send</button>
+</form>
+%endfor
+</body>
+</html>

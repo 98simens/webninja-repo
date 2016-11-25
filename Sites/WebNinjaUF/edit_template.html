@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Web development By Simon Enström">
+	<meta name="keywords" content="HTML5,Webdevelopment, Web, Development, Javascript,CSS3,Bootstrap,">
+
+    <meta name="author" content="Simon Enström">
+
+    <title>Template</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet"/>
+	
+	    <!-- jQuery -->
+    <script src="js/jquery-3.1.1.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+	
+	<script src="js/tinymce.min.js"></script>
+	
+</head>
+
+<body>
+<div class="container">
+	<div class="col-md-3">
+	<h2>{Name}</h2>
+	<input value="{ContID}" name ="ContID" hidden />
+	<input placeholder="{Value}" name="Value">
+	</div>
+	<div class="col-md-12">
+	<h2>{Name}</h2>
+	<input value="{ContID}" name ="ContID" hidden />
+	<textarea id="cont" name="Value">{Value}</textarea>
+	</div>
+	<div class="col-md-3">
+	<h2>{Name}</h2>
+	<input value="{ContID}" name ="ContID" hidden />
+	<input type="color" value="{Value}" name="Value"/>
+	</div>
+	<div class="col-md-3">
+	<h2>{Name}</h2>
+	<img src="{Value}"/>
+	<input value="{ContID}" name ="ContID" hidden />
+	<input type="file" name="Value"/>
+</div>
+
+
+<script>
+    tinymce.init({
+  selector: 'textarea#cont',
+  plugin: 'a_tinymce_plugin',
+  a_plugin_option: true,
+  a_configuration_option: 400,
+    plugins: [
+    'advlist autolink lists link image charmap print preview hr anchor pagebreak',
+    'searchreplace wordcount visualblocks visualchars code fullscreen',
+    'insertdatetime media nonbreaking save table contextmenu directionality',
+    'emoticons template paste textcolor colorpicker textpattern imagetools'
+  ],
+  toolbar1: 'insertfile undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent | link image',
+  toolbar2: 'print preview media | forecolor backcolor emoticons'
+});
+</script>
+</body>
+
+</html>

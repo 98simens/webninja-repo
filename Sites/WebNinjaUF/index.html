@@ -2,8 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>WebNinja UF</title>
+    <title> ${attributes[0]}</title>
 	<meta charset="UTF-8"/>
+	<meta name="description" content="${attributes[1]}"/>
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
     <link rel="stylesheet" href="css/custom.css" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -41,26 +42,19 @@
                 <img src="img/computer.jpg" alt="" />
                 <h2>Webbutveckling</h2>
                 <hr/>
-                <p>Vi erbjuder eleganta och funktionella hemsidor som utgår från någon av våra mallar. Mallarna anpassas med era egna bilder, logotyper och färger så att ni får en personlig hemsida för era ändamål.</p>
+                <p>${attributes[3]}</p>
             </div>
             <div class="col-md-4">
                 <img src="img/keyboard.jpg" alt="" />
                 <h2>Hosting</h2>
                 <hr/>
-                <p>Vi erbjuder webbhosting av era sidor på våra egna servrar till ett lågt pris. Vill ni hosta på en egen server eller på ett annat webbhotell så hjälper vi till med det. När ni köper en domän kan vi även för en extra kostnad fixa era egna e-mailadresser som innehåller er domän. <br/> <b>Exempel: dittnamn@dindom.se</b>.<br/>  
-				Vi har även möjlighet att programmera snygga mail som ni kan skicka ut till era kunder.</p>
+                <p>${attributes[4]}</p>
             </div>
             <div class="col-md-4">
                 <img src="img/paper.jpg" alt="" />
                 <h2>Priser</h2>
                 <hr/>
-                <p id="priser">Startavgift Privatperson/företag: 200kr<br/>
-                    Startavgift UF-företag: 150kr<br/>
-                    Avgift per utkast: 50kr<br/>
-                    Hosting: 30kr/månad<br/>
-                    Domän Pris varierar<br/>
-                    Egen Email: Kommer inom kort<br/>
-                    Programmering av ett mail-utskick: 100kr</p>
+                <p id="priser">${attributes[5]}</p>
                 
                 
             </div>
@@ -92,14 +86,10 @@
             </ul>
             <ul id="tab_content">
                 <li id="team" class="active">
-                    <p>Vi är 3 killar som går 3e året på teknikprogrammet i Bodens med inriktning dator och programmering. Vi har alla ett stort intresserade av datorkunskap och programmering.<br/>
-                        Mikael Karlman är vår VD. <br/>
-                        Simon Enström är marknads och kommunikationsansvarig i företaget. Han sköter även om vår server och lite annat där omkring.<br/>
-                        Anton Lazovski är ekonomiansvarig. Han har goda kunskaper i HTML och CSS och programmerar stora delar av hemsidorna.</p>
-
+                    ${attributes[6]}
                 </li>
                 <li id="idea">
-                    <p>Vår idé är att sälja snygga och funktionella hemsidor till marknadens lägsta priser.  Enligt oss ska alla kunna ha en egen hemsida och med våra priser så kan alla ha råd med det. För ett mer öppet internet!</p>
+                    ${attributes[7]}
                 </li>
             </ul>
         </div>
