@@ -1,0 +1,14 @@
+.fakeImage {
+    background: url("../images/placeholder.png");
+    background-position: center;
+    background-size: 150%;
+    width: 25%;
+    height: 100%;
+    float: left;
+    transition: 0.5s;
+}
+
+.fakeImage:hover {
+    box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.25), inset -5px -5px 5px rgba(0, 0, 0, 0.25);
+    background-size: 125%;
+}

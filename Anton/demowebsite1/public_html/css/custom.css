@@ -1,0 +1,52 @@
+#header{
+	background-image:url("../header.jpg");
+}
+
+#navbar{
+	border-bottom: 1px #ccc solid;
+	box-shadow: 3px 3px 3px #ccc;
+	font-size:230%;
+	text-align:center;
+	font-weight:bolder;
+	color:#333;
+}
+
+#navbar span{
+	margin-left: 10px;
+}
+
+tag{
+	font-size:130%;
+	font-weight:lighter;
+	color:#999;
+}
+
+iframe{
+	margin-top:30px;
+	width:100%;
+}
+
+#navbar *  img{
+	position:relative;
+	right:30px;
+	top:5px;
+	width: 100px;
+}
+
+#boxes h1{
+	text-align:center;
+}
+
+#priser{
+	text-align:center;
+}
+
+.col-md-3 img{
+	width:100%;
+	box-shadow:5px 5px 5px #999;
+}
+
+.row{
+	margin-bottom:30px;
+
+}
