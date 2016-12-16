@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AREA 66</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="css/style.css" rel="stylesheet" type="text/css"/>
+        <link href="css/unslider.css" rel="stylesheet" type="text/css"/>
+        <link href="css/topnav.css" rel="stylesheet" type="text/css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="js/main.js" type="text/javascript"></script>
+        <script src="js/unslider-min.js" type="text/javascript"></script>
+        <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <div class="navbar">
+            <a href="#" id="homebtn">AREA 66</a>
+            <a href="javasscript:void(0);" onclick="dropMenu();" id="menubtn">&#9776;</a>
+            <ul>
+                <li><a href="#/" onclick="scrollDestination('welcome')" id="link">Välkommen</a></li>
+                <li><a href="#/" onclick="scrollDestination('gallery')" id="link">Bilder</a></li>
+                <li><a href="#/" onclick="scrollDestination('offers')" id="link">Tjänster</a></li>
+                <li><a href="#/" onclick="scrollDestination('local-map')" id="link">Karta</a></li>
+                <li><a href="#/" onclick="scrollDestination('fort')" id="link">Fortet</a></li>
+                <li><a href="#/" onclick="scrollDestination('contact')" id="link">Kontakta oss</a></li>
+            </ul>
+            <p class="clear">&nbsp;</p>
+        </div>
+        
+        <div class="mainContent">
+            <header class="mainHeader">
+                <div class="textContainer">
+                    <h1>AREA 66</h1>
+                    <hr>
+                    <p>BODEN - NORRBOTTEN - SWEDEN</p>
+                </div>
+            </header>
+            
+            <div id="welcome" class="contentSection">
+                <div class="background">
+                    <div class="textSection">
+                        <header>
+                            <h1>Vill du ha lösningen för... Företagsfesten, Barnkalaset, Svensexan, Möhippan. Eller om du vill lira en helt vanlig kväll?</h1>
+                        </header>
+                        <hr>
+                        <div class="textField">
+                            <p>Hos oss kan du bland annat spela Lasergame, vilket passar i princip alla åldrar. Vi rekommenderar det från 6-8 år, sen är det ingen begränsning.</p>
+                            <p>Vi använder oss av ett system som heter VEQTOR MAXblaster vilket är ett radiobaserat system. Det tillåter gästerna som sitter i cafeterian att se hur poängen förändras för de spelande rymdsoldaterna...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="gallery" class="imageGallery">
+                <div class="imagesContainer" onclick="gotoImages();">
+                    <div class="textContainer">
+                        <h1>Våra bilder</h1>
+                        <p>Klicka här för att se våra bilder</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="offers" class="contentSection">
+                <div class="background">
+                    <div class="tabContainer">
+                        <div class="selection">
+                            <div class="tabButton" tab="1" onclick="tabChange(this);">
+                                <h1>Mat</h1>
+                            </div>
+                            <div class="tabButton active" tab="2" onclick="tabChange(this);">
+                                <h1>Lasergame</h1>
+                            </div>
+                            <div style="clear: both;"></div>
+                        </div>
+                        <div class="tabContentOne">
+                            <p>3 Spel - 150:-/person</p>
+                            <p>Vid bokat barnkalas (minst 8 st) ingår även ett fika (dricka+gobit) i priset.</p>
+                            <p>Area66:s inbjudningskort. Ladda ner här.</p>
+                            <p>Dricka/Kaffe + Godbit - 25:-</p>
+                            <br>
+                            <p>OBS! Endast tidsbokning gäller! (Ej Drop in tider)</p>
+                            <p>Avbokar man inte senast 1 dag före bokad tid, debiteras 900:- som fast ersättning. Om man inte kommer på uppbokad tiddebiteras den totala kostnaden för hela bokningen.</p>
+                            <p>Det går att betala med Kort!</p>
+                        </div>
+                        <div class="tabContentTwo" style="display: none;">
+                            <p>Fläskfilé och potatisgratäng - 200:-/person</p>
+                            <p>Oxfilé och potatisgratäng - 250:-/person</p>
+                            <p>Vegitariska alternativ finns, ring för Meny.</p>
+                            <p>Det går att betala med Kort!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="local-map" class="mapSection">
+                <div id="map"></div>
+            </div>
+            
+            <div id="fort" class="contentSection">
+                <div class="background">
+                    <div class="textSection">
+                        <header>
+                            <h1>Fakta om Arenan</h1>
+                        </header>
+                        <hr>
+                        <div class="textField">
+                            <p>Lasergame Arenan är beläget mitt inne i ett berg. Lokalerna ligger ca 100m inne i berget och var från början en atombombssäker civilförsvarsanläggning, där brandkår, polis och kommunledning skulle leda och styra kommunen om det blev ofred. Anläggningen är byggd i två våningar ca 800m<sup>2</sup> som står på gummikuddar för att vara helt fristående från berget. </p>
+                            <p>För att ta sig in till arenan måste du gå genom en lång tunnel som avslutas med en stor ståldörr. Efter att du passerat ståldörren så kommer du till gasslussen. Den skulle göra inpassagen säker och om det behövdes även sanera de inpasserande innan de tog sig in i bergrummet.</p>
+                            <p>När du väl har tagit dig in på vår arena. Så har du en spelplansom har en yta på ca 400m<sup>2</sup> och den är uppdelad i 15 olika rum som är temasatta för att likna ett rymdskepp. T.ex finner ni en cargo bay, ion core, laser turrets och ett laboratorium där man har experimenterat på en Alien.. På den övre våningen finns ett Cafe med Star wars-tema som säljer fika/godis av olika slag. I anslutning till Cafet finns även en kombinerad mat och konferensdel som gör det möjligt att äta en god middag innan man går ner till Arenan och spelar. </p>
+                            <p>Är det första gången som du besöker oss så gäller det att vara extra försiktigt när man tar sig in, för man vet ju aldrig vad som döljer sig runt nästa hörn..</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="contact" class="footerContent">
+                <h1>Kontakta oss</h1>
+                <hr>
+                <div class="footer-left">
+                    <div class="footer-text">
+                        <div id="tider">
+                            <p><strong>Våra öppettider är:</strong><br>
+                                Mån - Fre 17:00 - 22:00<br>
+                                Lör - Sön 12:00 - 22:00</p>
+                        </div><br>
+                        <div id="besoksaddress">
+                            <p><strong>Besöksadress:</strong><br>
+                                AREA 66/Sävastklinten<br>
+                            Se kartan!</p>
+                        </div><br>
+                        <div id="postadress">
+                            <p><strong>Postadress:</strong><br>
+                                AREA 66<br>
+                                co / Fällvägen 3<br>
+                            961 40 Boden</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-middle">
+                    <p><strong>För att göra en bokning ber vi er kontakta oss på mobilen, fasta telefon, alt e-post.</strong></p>
+                    <a href="http://www.facebook.com/area66boden/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i> Besök gäran vår Facebook sida</a>
+                </div>
+                <div class="footer-right">
+                    <div class="footer-text">
+                        <p><i class="fa fa-envelope-o" aria-hidden="true"></i> info@area66.se</p>
+                        <p><i class="fa fa-phone" aria-hidden="true"></i> 0921-10641</p>
+                        <p><i class="fa fa-mobile-phone" aria-hidden="true"></i> 070-680 04 08</p>
+                    </div>
+                </div>
+                <p class="clear">&nbsp;</p>
+            </div>
+        </div>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUI-0uTLfgiVA7FM-pdIqY_6NnuGK2m88&callback=initMap"></script>
+    </body>
+</html>
