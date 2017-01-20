@@ -1,0 +1,3725 @@
+# Webalizer V2.23-08 Incremental Data - 11/29/2014 20:12:07
+2014 11 29 20 12 7
+29658 25114 835 177 79 283 1288155686 3338 1708 0
+6 1 755 1 29
+692 522 26403527 51 105 57
+1314 1091 55427391 83 161 81
+774 646 36551166 52 128 73
+825 664 33679527 74 122 70
+1385 1159 60758161 70 164 69
+713 567 26368330 40 105 53
+1581 1408 77834373 44 167 74
+2455 2195 121038020 70 201 81
+1693 1398 72905061 93 152 81
+738 635 27619342 51 123 63
+1642 1341 76446505 74 152 66
+1169 950 46223729 58 157 68
+654 583 29178649 42 96 54
+1162 1066 56374457 47 109 63
+1038 847 40004664 51 118 64
+1204 1019 51483509 72 129 72
+1582 1402 78270901 59 137 66
+1018 847 38365476 76 110 60
+581 504 24449337 48 81 61
+903 760 40616530 45 98 59
+450 364 16015107 45 116 67
+1852 1551 76914780 59 167 75
+1761 1456 68083734 63 164 67
+1531 1368 65551912 79 138 71
+807 657 35612397 79 99 62
+113 95 5564541 23 27 20
+4 4 189209 4 2 2
+4 4 204078 4 2 2
+13 11 21273 6 8 7
+0 0 0 0 0 0
+0 0 0 0 0 0
+593 511 28226067 110
+240 171 8122208 88
+439 357 17283382 99
+168 109 3221462 70
+219 142 5412949 109
+127 75 1667663 76
+183 113 2722985 100
+346 282 10226532 113
+1069 899 49065962 125
+1180 1011 50089405 146
+1519 1327 71313520 117
+2062 1796 86285989 165
+1697 1379 70211491 171
+974 863 43919883 101
+1582 1382 70001675 136
+2377 2036 109803854 220
+1647 1436 78622616 170
+2423 2049 106916662 223
+1962 1687 81427279 179
+2419 2049 107102763 216
+2081 1662 86548861 158
+2317 1979 104724069 207
+1076 954 56649004 109
+958 845 38589405 130
+0
+0
+0
+25114
+0
+0
+0
+0
+0
+421
+0
+0
+0
+0
+758
+0
+0
+0
+0
+0
+0
+3365
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/index_htm_files/45.jpg
+0 147 0 7709533 0 0
+/index_htm_files/36.png
+0 145 0 763669 0 0
+/index_htm_files/32.png
+0 146 0 8919648 0 0
+/index_htm_files/151.jpg
+0 26 0 440180 0 0
+/index_htm_files/42.jpg
+0 145 0 910080 0 0
+/index_htm_files/14.png
+0 486 0 1153716 0 0
+/index_htm_files/37.png
+0 144 0 108966 0 0
+/index_htm_files/2.png
+0 421 0 26307915 0 0
+/index_htm_files/69.png
+0 65 0 348530 0 0
+/index_htm_files/18.png
+0 477 0 685152 0 0
+/index_htm_files/113.jpg
+0 5 0 709423 0 0
+/index_htm_files/103.jpg
+0 4 0 103168 0 0
+/index_htm_files/controlbar-text-buttons.png
+0 54 0 70200 0 0
+/index_htm_files/135.png
+0 155 0 32860 0 0
+/index_htm_files/64.jpg
+0 20 0 1280391 0 0
+/index_htm_files/16.png
+0 486 0 827288 0 0
+/index_htm_files/highslide-ie6.css
+0 1 0 2179 0 0
+/index_htm_files/1.png
+0 472 0 2689684 0 0
+/service.htm
+0 281 0 532452 91 75
+/index_htm_files/17.png
+0 481 0 869030 0 0
+/index_htm_files/highslide.css
+0 199 0 790212 0 0
+/index_htm_files/13.png
+0 487 0 1231137 0 0
+/index_htm_files/147.png
+0 212 0 1632290 0 0
+/index_htm_files/52.png
+0 144 0 94094 0 0
+/index_htm_files/83.jpg
+0 58 0 1404470 0 0
+/index_htm_files/54.jpg
+0 147 0 3866860 0 0
+/index_htm_files/40.jpg
+0 145 0 926928 0 0
+/index_htm_files/25.png
+0 130 0 2759680 0 0
+/index_htm_files/12.png
+0 484 0 684872 0 0
+/index_htm_files/144.png
+0 210 0 1160856 0 0
+/index_htm_files/3.png
+0 457 0 446041469 0 0
+/index_htm_files/93.jpg
+0 12 0 2132942 0 0
+/index_htm_files/77.jpg
+0 58 0 1527662 0 0
+/index_htm_files/132.jpg
+0 155 0 7248627 0 0
+/index_htm_files/75.jpg
+0 57 0 1507251 0 0
+/index_htm_files/46.jpg
+0 146 0 7554790 0 0
+/index_htm_files/60.jpg
+0 23 0 2385997 0 0
+/index_htm_files/19.png
+0 481 0 1196232 0 0
+/birthdaycard.htm
+0 48 0 80024 11 7
+/index_htm_files/108.jpg
+0 3 0 77412 0 0
+/index_htm_files/137.jpg
+0 164 0 14816603 0 0
+/index_htm_files/91.jpg
+0 54 0 7467131 0 0
+/index_htm_files/87.jpg
+0 54 0 8805888 0 0
+/index_htm_files/112.jpg
+0 4 0 540132 0 0
+/index_htm_files/119.png
+0 57 0 46056 0 0
+/index_htm_files/33.png
+0 145 0 3110976 0 0
+/index_htm_files/png.js
+0 1 0 642 0 0
+/index_htm_files/85.jpg
+0 59 0 3086702 0 0
+/index_htm_files/controlbar-white-small.gif
+0 54 0 170154 0 0
+/index_htm_files/109.jpg
+0 4 0 109992 0 0
+/index_htm_files/62.jpg
+0 24 0 2620121 0 0
+/index_htm_files/116.jpg
+0 4 0 644952 0 0
+/index_htm_files/55.jpg
+0 147 0 6929405 0 0
+/index_htm_files/48.jpg
+0 145 0 1083168 0 0
+/index_htm_files/143.jpg
+0 213 0 3818368 0 0
+/index_htm_files/roe.js
+0 487 0 2047437 0 0
+/index_htm_files/5.png
+0 432 0 8920294 0 0
+/index_htm_files/74.jpg
+0 57 0 1353921 0 0
+/index_htm_files/44.jpg
+0 146 0 7548532 0 0
+/index_htm_files/15.png
+0 489 0 863158 0 0
+/index_htm_files/149.png
+0 26 0 37440 0 0
+/index_htm_files/90.jpg
+0 54 0 5916675 0 0
+/index_htm_files/11.png
+0 479 0 879375 0 0
+/galleryarena1.htm
+0 191 0 441476 34 23
+/index_htm_files/39.jpg
+0 145 0 689184 0 0
+/index_htm_files/38.jpg
+0 146 0 1335595 0 0
+/index_htm_files/118.jpg
+0 5 0 797667 0 0
+/index_htm_files/97.jpg
+0 13 0 2032138 0 0
+/index_htm_files/53.jpg
+0 148 0 9371156 0 0
+/index_htm_files/99.jpg
+0 12 0 1988457 0 0
+/index_htm_files/23.png
+0 156 0 144017179 0 0
+/index_htm_files/30.png
+0 190 0 4067322 0 0
+/index_htm_files/123.jpg
+0 59 0 9322920 0 0
+/index_htm_files/105.jpg
+0 4 0 106472 0 0
+/index_htm_files/98.jpg
+0 13 0 1903511 0 0
+/index_htm_files/138.jpg
+0 154 0 14723170 0 0
+/index_htm_files/92.jpg
+0 15 0 2495265 0 0
+/index_htm_files/28.png
+0 213 0 216315579 0 0
+/galleryguest1.htm
+0 75 0 263569 9 5
+/info.htm
+0 271 0 627780 104 97
+/index_htm_files/58.jpg
+0 21 0 1810860 0 0
+/index_htm_files/101.jpg
+0 12 0 2154096 0 0
+/index_htm_files/89.jpg
+0 54 0 7824465 0 0
+/index_htm_files/highslide.js
+0 197 0 3813732 0 0
+/index_htm_files/110.jpg
+0 4 0 109792 0 0
+/index_htm_files/29.png
+0 308 0 712576 0 0
+/index_htm_files/114.jpg
+0 5 0 768370 0 0
+/index_htm_files/47.jpg
+0 148 0 7728515 0 0
+/index_htm_files/56.jpg
+0 146 0 6267744 0 0
+/index_htm_files/128.png
+0 160 0 679360 0 0
+/index_htm_files/78.jpg
+0 57 0 1528569 0 0
+/index_htm_files/133.jpg
+0 157 0 7675465 0 0
+/index_htm_files/50.jpg
+0 147 0 7670331 0 0
+/index_htm_files/73.jpg
+0 58 0 1503261 0 0
+/index_htm_files/102.jpg
+0 16 0 2838252 0 0
+/index_htm_files/111.jpg
+0 4 0 656106 0 0
+/index_htm_files/71.jpg
+0 58 0 3162588 0 0
+/index_htm_files/117.jpg
+0 5 0 585758 0 0
+/index_htm_files/88.jpg
+0 55 0 12676584 0 0
+/index_htm_files/fullexpand.gif
+0 2 0 418 0 0
+/index_htm_files/xr_main.css
+0 481 0 185960 0 0
+/index_htm_files/142.jpg
+0 212 0 3799062 0 0
+/index_htm_files/106.jpg
+0 3 0 79839 0 0
+/contact.htm/trackback/
+0 1 0 216831 0 75
+/index_htm_files/141.jpg
+0 212 0 3799683 0 0
+/index_htm_files/76.jpg
+0 58 0 1522641 0 0
+/index_htm_files/115.jpg
+0 4 0 567620 0 0
+/index_htm_files/67.png
+0 57 0 35967 0 0
+/index_htm_files/94.jpg
+0 15 0 2182012 0 0
+/galleryfortet1.htm
+0 121 0 177980 51 47
+/index_htm_files/96.jpg
+0 12 0 1648240 0 0
+/index_htm_files/134.png
+0 155 0 32550 0 0
+/index_htm_files/129.png
+0 158 0 468628 0 0
+/index_htm_files/81.jpg
+0 58 0 1553182 0 0
+/index_htm_files/131.jpg
+0 156 0 7004980 0 0
+/index_htm_files/4.png
+0 433 0 989429 0 0
+/index_htm_files/68.png
+0 67 0 62645 0 0
+/index_htm_files/63.jpg
+0 20 0 634049 0 0
+/index_htm_files/35.png
+0 145 0 135648 0 0
+/index_htm_files/22.png
+0 130 0 8327079 0 0
+/index_htm_files/82.jpg
+0 59 0 1524298 0 0
+/index_htm_files/Karta.boden.red.JPG
+0 17 0 520336 0 0
+/index_htm_files/27.png
+0 287 0 16367204 0 0
+/index_htm_files/closeX.png
+0 2 0 7330 0 0
+/index_htm_files/153.png
+0 26 0 800540 0 0
+/index_htm_files/Karta.lulea.red.JPG
+0 30 0 955492 0 0
+/index_htm_files/124.jpg
+0 61 0 7959310 0 0
+/index_htm_files/xr_text.css
+0 481 0 262389 0 0
+/index_htm_files/79.jpg
+0 58 0 1552312 0 0
+/index_htm_files/70.jpg
+0 57 0 1433436 0 0
+/index_htm_files/139.jpg
+0 151 0 12261600 0 0
+/index_htm_files/145.jpg
+0 211 0 1911552 0 0
+/index_htm_files/84.jpg
+0 63 0 1623336 0 0
+/index_htm_files/loader.white.gif
+0 192 0 129216 0 0
+/index_htm_files/152.jpg
+0 26 0 433160 0 0
+/nyheter.htm
+0 180 0 286862 35 29
+/index_htm_files/72.png
+0 57 0 46284 0 0
+/
+0 1102 0 2226213 914 386
+/index_htm_files/7.png
+0 434 0 6916932 0 0
+/contact.htm
+0 608 0 1339147 315 146
+/index_htm_files/49.jpg
+0 147 0 2932631 0 0
+/index_htm_files/61.jpg
+0 29 0 2903684 0 0
+/index_htm_files/34.png
+0 146 0 933962 0 0
+/index_htm_files/107.jpg
+0 4 0 107436 0 0
+/galleryguest2.htm
+0 22 0 175448 4 3
+/index_htm_files/59.jpg
+0 17 0 1628022 0 0
+/index_htm_files/31.png
+0 190 0 760570 0 0
+/index_htm_files/146.png
+0 210 0 169947 0 0
+/index_htm_files/150.jpg
+0 26 0 493948 0 0
+/index_htm_files/8.png
+0 483 0 1170435 0 0
+/index_htm_files/10.png
+0 497 0 913612 0 0
+/index_htm_files/104.jpg
+0 4 0 102568 0 0
+/index_htm_files/66.jpg
+0 19 0 1254870 0 0
+/index_htm_files/80.jpg
+0 57 0 1489752 0 0
+/index_htm_files/24.png
+0 181 0 421682 0 0
+/index_htm_files/57.jpg
+0 146 0 6071040 0 0
+/index_htm_files/100.jpg
+0 11 0 1645220 0 0
+/index_htm_files/130.jpg
+0 158 0 4023144 0 0
+/index_htm_files/86.jpg
+0 62 0 3244476 0 0
+/index_htm_files/65.jpg
+0 23 0 1915470 0 0
+/index_htm_files/close.png
+0 2 0 3820 0 0
+/index_htm_files/122.png
+0 58 0 43326 0 0
+/index_htm_files/126.png
+0 172 0 10545657 0 0
+/index_htm_files/95.jpg
+0 17 0 2561040 0 0
+/index_htm_files/41.jpg
+0 146 0 1089095 0 0
+/index_htm_files/customs.png
+0 191 0 2890494 0 0
+/index_htm_files/51.jpg
+0 145 0 2944512 0 0
+/index_htm_files/121.jpg
+0 57 0 2583224 0 0
+/index_htm_files/9.png
+0 484 0 837800 0 0
+/index_htm_files/136.jpg
+0 158 0 14268664 0 0
+/index_htm_files/127.png
+0 264 0 5602365 0 0
+/index_htm_files/120.jpg
+0 57 0 2885848 0 0
+/index_htm_files/43.jpg
+0 147 0 7474399 0 0
+/index_htm_files/6.png
+0 482 0 4858369 0 0
+/index_htm_files/resize.gif
+0 2 0 140 0 0
+/index_htm_files/140.png
+0 208 0 580560 0 0
+/index_htm_files/26.png
+0 131 0 534189 0 0
+# End Of Table - urls
+# -sites- (monthly)
+f481.fuchsia.fastwebserver.de
+0 2 1 7065 1 1415289199
+/
+25.192.26.117.broad.pt.fj.dynamic.163data.com.cn
+0 4 2 6688 2 1415067075
+-
+host86-184-127-11.range86-184.btcentralplus.com
+0 30 30 475927 1 1415422461
+/galleryguest2.htm
+81-235-207-165-no59.tbcn.telia.com
+0 132 102 5928495 1 1416139296
+/
+h224n7-ll-a31.ias.bredband.telia.com
+0 49 49 8192573 1 1415449885
+/service.htm
+google-proxy-66-249-81-169.google.com
+0 29 27 457585 1 1415650461
+/galleryguest1.htm
+tss37-2-82-239-104-246.fbx.proxad.net
+0 17 16 391587 1 1415592373
+/galleryguest1.htm
+a89-153-62-220.cpe.netcabo.pt
+0 23 23 1268309 1 1416332852
+/
+host-95-195-207-19.mobileonline.telia.com
+0 29 29 2440226 1 1415975092
+/service.htm
+69.171.248.3
+0 1 1 1802 0 0
+-
+h160n2.eskilstunaenergi.ias.bredband.telia.com
+0 4 4 1279005 0 0
+-
+h185-31-142-69.eth.dyn.cust-ip.bdtv.se
+0 199 136 8739364 1 1415211493
+/contact.htm
+boson066.ahrefs.com
+0 1 1 103703 0 0
+-
+c-46-162-83-151.cust.bredband2.com
+0 36 36 3654050 1 1415572951
+/service.htm
+61.135.190.219
+0 3 3 9771 1 1416059899
+/
+h37-123-163-245.eth.dyn.cust-ip.bdtv.se
+0 3 0 3444 0 0
+-
+msnbot-157-55-39-80.search.msn.com
+0 3 0 3444 3 1414864649
+-
+boson051.ahrefs.com
+0 1 1 103739 0 0
+-
+200-28-61-229.baf.movistar.cl
+0 23 23 1268309 1 1415823581
+/
+h140n2-bd-a13.ias.bredband.telia.com
+0 122 97 8642174 2 1416515315
+/service.htm
+173.252.113.114
+0 1 1 1738 0 0
+-
+213.50.25.139
+0 86 82 2831548 1 1415473906
+/contact.htm
+247.214.34.95.customer.cdi.no
+0 39 39 2544956 1 1416170736
+/contact.htm
+177.204.109.212.dynamic.adsl.gvt.net.br
+0 23 23 1268309 1 1416308113
+/
+55.200.178.107.gae.googleusercontent.com
+0 1 0 1148 0 0
+-
+173.252.102.115
+0 13 13 64957 0 0
+-
+b01.forexp.com
+0 30 30 567034 1 1415606060
+/galleryguest2.htm
+88.131.31.186
+0 139 133 7052447 2 1416245108
+/contact.htm
+host-95-199-148-16.mobileonline.telia.com
+0 139 121 6518184 1 1416261806
+/contact.htm
+36.250.178.222
+0 18 9 30096 3 1415791293
+/contact.htm/trackback/
+195.196.62.59
+0 177 142 8107759 3 1416390000
+/
+c213-89-74-55.bredband.comhem.se
+0 59 55 2034554 1 1415482196
+/galleryarena1.htm
+193.8.32.17
+0 66 60 2311521 1 1416256342
+/galleryarena1.htm
+baiduspider-123-125-71-72.crawl.baidu.com
+0 1 1 5847 0 0
+-
+rs000192.fastrootserver.de
+0 1 0 1148 0 0
+-
+90-224-241-246-no116.business.telia.com
+0 37 35 1435310 1 1415267208
+/contact.htm
+a79-168-90-101.cpe.netcabo.pt
+0 23 23 1268309 1 1416840304
+/
+200.179.229.204
+0 23 23 1268309 1 1416409762
+/
+90-224-85-55-no231.tbcn.telia.com
+0 23 23 1268309 1 1416004353
+/
+h241n6.lunet.ias.bredband.telia.com
+0 139 126 6991284 1 1414963075
+/contact.htm
+boson093.ahrefs.com
+0 3 3 238232 0 0
+-
+h249n2-bd-a13.ias.bredband.telia.com
+0 143 121 6848048 1 1416085360
+/galleryfortet1.htm
+81.91.3.3
+0 148 132 7482793 1 1415347906
+/nyheter.htm
+69.171.248.5
+0 3 3 5865 0 0
+-
+81-235-205-145-no59.tbcn.telia.com
+0 218 200 9529830 4 1416500471
+/info.htm
+c-94-255-233-20.cust.bredband2.com
+0 35 35 1433014 1 1416337187
+/contact.htm
+hosting21.serverhs.org
+0 3 0 3444 1 1415515580
+/
+66.220.156.114
+0 36 36 142291 0 0
+-
+h232n7.lunet.ias.bredband.telia.com
+0 289 246 11832032 4 1416668446
+/
+nllse-hyde.nll.se
+0 135 125 4952572 3 1415879606
+/contact.htm
+msnbot-207-46-13-31.search.msn.com
+0 18 13 39667 3 1415615342
+-
+95.109.39.129
+0 393 370 10742959 10 1416345623
+/nyheter.htm
+msnbot-157-55-39-0.search.msn.com
+0 9 2 12619 4 1414951572
+-
+msnbot-157-55-39-100.search.msn.com
+0 18 11 58425 13 1415497599
+/
+crawl-66-249-67-15.googlebot.com
+0 91 22 57220 57 1416924368
+/galleryarena1.htm
+37.250.117.113.bredband.tre.se
+0 35 35 1433014 1 1415882321
+/contact.htm
+212.181.100.8
+0 1 1 1116928 0 0
+-
+78-69-140-148-no116.tbcn.telia.com
+0 6 0 6888 0 0
+-
+200.229.159.27.broad.pt.fj.dynamic.163data.com.cn
+0 35 24 65332 22 1416026706
+/contact.htm
+host-95-195-153-195.mobileonline.telia.com
+0 23 23 1268309 1 1415990564
+/
+78-69-140-203-no116.tbcn.telia.com
+0 108 98 6659312 2 1416769388
+/info.htm
+78-73-14-133-no59.tbcn.telia.com
+0 73 65 2445175 1 1416776094
+/galleryfortet1.htm
+36.250.178.117
+0 1 1 5917 1 1415560554
+/
+ip13.ch1sch02009bbsh.ntwk.msn.net
+0 5 1 92935 3 1416799510
+/galleryfortet1.htm
+173.252.105.118
+0 5 5 13682 0 0
+-
+linux.sunderby.fhsk.se
+0 155 128 6940390 1 1415710693
+/galleryfortet1.htm
+host-95-195-60-143.mobileonline.telia.com
+0 17 6 98423 1 1415824459
+/birthdaycard.htm
+c-46-162-68-104.cust.bredband2.com
+0 40 39 2546104 1 1415738132
+/contact.htm
+host-95-195-213-176.mobileonline.telia.com
+0 53 53 4376310 1 1415527680
+/service.htm
+180.153.236.166
+0 1 1 1563 1 1415163863
+/
+crawl-66-249-67-31.googlebot.com
+0 108 23 1250435 76 1417013722
+/info.htm
+31.13.102.119
+0 7 7 20275 1 1416339237
+/
+2.151.71.213.tmi.telenormobil.no
+0 123 95 4349105 1 1416821296
+/galleryguest1.htm
+seedbox2.sunrise-ca.eu
+0 2 1 7065 1 1416144421
+/
+173.252.105.112
+0 10 10 19525 0 0
+-
+crawl-66-249-65-95.googlebot.com
+0 5 2 6353 3 1415508020
+/
+crawl-192-99-107-190.meanpathbot.com
+0 2 1 2711 1 1416297476
+/
+173.252.100.112
+0 2 2 3327 0 0
+-
+23.19.37.159.rdns.gw72.com
+0 4 4 23668 1 1416245512
+/
+h-168-210.a192.priv.bahnhof.se
+0 84 64 2645167 1 1415485853
+/galleryarena1.htm
+ns503375.ip-198-27-65.net
+0 4 2 14130 2 1416829007
+/
+173.252.73.116
+0 2 2 52369 0 0
+-
+h157n3-bd-a13.ias.bredband.telia.com
+0 77 75 5175734 2 1417031906
+/birthdaycard.htm
+h-45-210.a328.priv.bahnhof.se
+0 1 1 32948 0 0
+-
+101.226.168.245
+0 1 1 2440 1 1415913044
+/info.htm
+77.110.27.24
+0 51 49 809014 1 1416824293
+/galleryarena1.htm
+107.170.55.231
+0 13 12 20810 1 1415786121
+/galleryfortet1.htm
+m77-218-230-56.cust.tele2.se
+0 24 23 1269457 1 1415539382
+/
+h46-59-40-45.docsis.dyn.cust-ip.bdtv.se
+0 36 35 1434162 1 1416665683
+/contact.htm
+c-46-162-69-34.cust.bredband2.com
+0 81 80 2896183 2 1416404149
+/contact.htm
+client224-225.wireless.umu.se
+0 1 1 1563 1 1416409719
+/
+c-e00371d5.07-214-6c756c1.cust.bredbandsbolaget.se
+0 33 31 2947688 1 1416246494
+/contact.htm
+boson086.ahrefs.com
+0 2 2 157697 0 0
+-
+101.226.166.199
+0 1 1 1761 1 1415447964
+/service.htm
+boson078.ahrefs.com
+0 1 1 167599 0 0
+-
+c-5e2fe155.810-1-64736c10.cust.bredbandsbolaget.se
+0 35 35 1433014 1 1415123572
+/contact.htm
+46.229.170.197
+0 1 1 5917 1 1415956053
+/
+85x113x58x138.static-customer.samara.ertelecom.ru
+0 1 1 1563 1 1414880831
+/
+ip25-253.pitecom.riksnet.nu
+0 72 67 2498709 1 1415808627
+/info.htm
+msnbot-157-55-39-131.search.msn.com
+0 5 5 1095080 1 1415450388
+/galleryarena1.htm
+69.171.248.0
+0 3 3 6384 0 0
+-
+130.185.139.213
+0 3 2 4274 2 1416946775
+/
+msnbot-207-46-13-95.search.msn.com
+0 5 3 5837 4 1414834198
+/
+175.44.56.180
+0 6 4 11080 1 1415894609
+/contact.htm/trackback/
+69.171.248.6
+0 4 4 15878 0 0
+-
+173.252.81.114
+0 5 5 11449 0 0
+-
+mail.nftc.nu
+0 38 35 1465332 1 1415963335
+/contact.htm
+baiduspider-123-125-71-22.crawl.baidu.com
+0 1 1 64443 0 0
+-
+c-8eeae253.4846884--62697410.cust.bredbandsbolaget.se
+0 36 35 1434162 1 1416330973
+/contact.htm
+c213-89-89-77.bredband.comhem.se
+0 37 35 1435310 1 1415537880
+/contact.htm
+173.252.113.117
+0 3 3 8032 0 0
+-
+c213-89-91-218.bredband.comhem.se
+0 3 3 69403 0 0
+-
+151.56.113.219
+0 23 23 1268309 1 1415538385
+/
+101.226.169.204
+0 1 0 1148 0 0
+-
+195-67-155-170.customer.telia.com
+0 2 0 2296 0 0
+-
+boson043.ahrefs.com
+0 2 2 189467 0 0
+-
+81-234-104-136-no80.tbcn.telia.com
+0 154 128 7391926 1 1415214878
+/contact.htm
+112.111.189.27
+0 8 4 13376 3 1416090955
+/contact.htm/trackback/
+c-f6a4e253.6871514--62697410.cust.bredbandsbolaget.se
+0 114 82 3466498 1 1416765042
+/info.htm
+c-4f6607bf-74736162.cust.telenor.se
+0 79 71 2662296 1 1416768792
+/galleryarena1.htm
+213-67-80-216-no59.tbcn.telia.com
+0 96 90 5122730 1 1416958795
+/info.htm
+h176-10-223-103.docsis.dyn.cust-ip.bdtv.se
+0 137 132 7486339 2 1416918737
+/contact.htm
+h174n4.lunet.ias.bredband.telia.com
+0 92 88 3497236 2 1416321418
+/contact.htm
+213.50.27.157
+0 30 29 210918 1 1415815574
+/contact.htm
+crawl-66-249-78-108.googlebot.com
+0 57 12 191021 42 1416993907
+/
+crawl-66-249-64-91.googlebot.com
+0 4 2 867 2 1414943049
+/info.htm
+64.246.178.34
+0 2 1 2711 1 1415632361
+/
+h185-31-142-71.eth.dyn.cust-ip.bdtv.se
+0 36 35 1434162 1 1415357841
+/contact.htm
+google-proxy-66-249-81-172.google.com
+0 40 35 1662043 4 1415953386
+/
+213.136.46.155
+0 24 23 1269457 1 1415201096
+/
+36.250.177.221
+0 14 7 23408 2 1415752791
+/contact.htm/trackback/
+189.59.126.31.dynamic.adsl.gvt.net.br
+0 23 23 1268309 1 1416141185
+/
+baiduspider-220-181-108-161.crawl.baidu.com
+0 1 1 5847 0 0
+-
+host86-184-212-247.range86-184.btcentralplus.com
+0 2 1 7065 1 1415464398
+/
+broadband-188-244-45-91.2com.net
+0 4 4 28077 1 1416751919
+/
+112.111.188.89
+0 4 2 6688 2 1416680323
+/contact.htm/trackback/
+h46-59-40-151.docsis.dyn.cust-ip.bdtv.se
+0 110 104 6256447 2 1415789889
+/service.htm
+213.50.27.162
+0 36 36 1434577 1 1414856018
+/contact.htm
+host-95-195-217-22.mobileonline.telia.com
+0 1 0 1148 0 0
+-
+46.229.164.112
+0 1 1 1563 1 1416942718
+/
+108.61.179.216
+0 1 1 1563 1 1416283860
+/
+173.252.113.115
+0 2 2 74139 0 0
+-
+crawl-66-249-64-111.googlebot.com
+0 1 0 1148 0 0
+-
+173.252.113.116
+0 3 3 24729 0 0
+-
+host-90-236-89-37.mobileonline.telia.com
+0 93 84 5048923 1 1415055869
+/galleryarena1.htm
+fetcher10.mail.ru
+0 10 7 170016 0 0
+-
+host-95-195-201-18.mobileonline.telia.com
+0 55 53 2072909 1 1415448824
+/contact.htm
+163.235.159.27.broad.pt.fj.dynamic.163data.com.cn
+0 10 6 17768 6 1414980669
+-
+h-27-92.a159.priv.bahnhof.se
+0 135 130 7716254 3 1416948414
+/
+109.58.147.119.bredband.tre.se
+0 35 35 1433014 1 1415693986
+/contact.htm
+c-830071d5.08-220-6c756c1.cust.bredbandsbolaget.se
+0 134 125 6861202 1 1416700467
+/info.htm
+81-224-42-117-no80.tbcn.telia.com
+0 23 23 1268309 1 1416146826
+/
+host-95-195-149-28.mobileonline.telia.com
+0 63 61 3204175 1 1416587360
+/service.htm
+46-236-103-22.customer.t3.se
+0 34 0 1148 0 0
+-
+boson084.ahrefs.com
+0 1 0 1148 0 0
+-
+213-67-71-135-no27.tbcn.telia.com
+0 1 0 1148 0 0
+-
+host245-204-static.227-95-b.business.telecomitalia.it
+0 23 23 1268309 1 1415437244
+/
+msnbot-157-55-39-171.search.msn.com
+0 2 1 1563 2 1415122043
+/
+173.252.102.116
+0 10 10 40589 0 0
+-
+fetcher10-1.p.mail.ru
+0 7 3 85374 0 0
+-
+62.237.153.27.broad.pt.fj.dynamic.163data.com.cn
+0 10 6 17768 3 1416793657
+/contact.htm
+m83-185-251-114.cust.tele2.se
+0 68 64 3317407 2 1415379796
+/service.htm
+c-8f5ee255.07-44-65736b4.cust.bredbandsbolaget.se
+0 24 23 1269457 1 1414888097
+/
+host-95-195-199-61.mobileonline.telia.com
+0 39 35 1437606 1 1416485395
+/contact.htm
+69.171.248.1
+0 2 2 18942 0 0
+-
+host-95-199-143-149.mobileonline.telia.com
+0 17 17 2113661 1 1415890959
+/service.htm
+msnbot-157-55-39-20.search.msn.com
+0 38 27 218229 23 1416173833
+/info.htm
+188.231.197.48.freenet.com.ua
+0 1 1 5917 1 1415495186
+/
+c-4f661b2b-74736162.cust.telenor.se
+0 59 54 4317291 1 1415567886
+/nyheter.htm
+lan-213-159-38-90.vln.skynet.lt
+0 3 3 17751 1 1416537493
+/
+ua-85-225-47-76.cust.bredbandsbolaget.se
+0 45 45 3757217 1 1416228496
+/nyheter.htm
+out-ar118.tfbnw.net
+0 1 1 5847 0 0
+-
+175.42.87.213
+0 49 0 56252 1 1416747161
+-
+31.13.99.119
+0 1 0 1148 1 1414861222
+/
+msnbot-207-46-13-118.search.msn.com
+0 4 1 3832 1 1415160206
+-
+66.220.156.112
+0 34 34 169940 3 1415722764
+/
+boson071.ahrefs.com
+0 1 0 1148 0 0
+-
+h37-123-163-184.eth.dyn.cust-ip.bdtv.se
+0 24 23 1218130 1 1415528225
+/service.htm
+msnbot-157-55-39-79.search.msn.com
+0 45 23 74607 23 1416930080
+/
+69.171.245.119
+0 2 2 3226 0 0
+-
+173.252.105.117
+0 2 2 3677 0 0
+-
+87.sub-70-209-18.myvzw.com
+0 1 1 1116928 0 0
+-
+out-ar114.tfbnw.net
+0 1 1 47259 0 0
+-
+h185-57-86-171.eth.dyn.cust-ip.bdtv.se
+0 23 23 1268309 1 1416345719
+/
+31.13.102.116
+0 12 12 35651 0 0
+-
+boson023.ahrefs.com
+0 2 2 34787 1 1417144998
+/galleryfortet1.htm
+92.39.10.155
+0 37 34 581004 1 1416404707
+/galleryfortet1.htm
+msnbot-157-55-39-179.search.msn.com
+0 4 2 4536 2 1416637461
+-
+c-5eeaaa7b-74736162.cust.telenor.se
+0 36 35 1399731 1 1415389681
+/contact.htm
+cpe-76-88-52-164.san.res.rr.com
+0 3 3 1299023 0 0
+-
+crawl-66-249-69-183.googlebot.com
+0 6 4 8548 6 1416651745
+-
+193.201.224.22
+0 82 41 137104 26 1415749386
+/contact.htm/trackback/
+spider10.mail.ru
+0 4 2 5422 2 1416609496
+/
+host-95-199-147-94.mobileonline.telia.com
+0 37 33 1326304 1 1415530173
+/contact.htm
+msnbot-157-55-39-178.search.msn.com
+0 30 20 292286 6 1416826871
+/service.htm
+ikyon-01.atm.binero.net
+0 34 34 73546 30 1416916550
+/
+msnbot-157-55-39-219.search.msn.com
+0 13 7 16920 10 1416460057
+/
+bfb65030.virtua.com.br
+0 23 23 1268309 1 1415736975
+/
+h-28-237.a159.priv.bahnhof.se
+0 2 2 1951 1 1415110883
+/
+h77-53-100-18.dynamic.se.alltele.net
+0 102 94 4913920 1 1415740001
+/service.htm
+92-244-7-164.customers.ownit.se
+0 36 35 1434162 1 1415224640
+/contact.htm
+host-95-199-153-42.mobileonline.telia.com
+0 57 55 2032258 1 1416163593
+/galleryarena1.htm
+c953f983.virtua.com.br
+0 23 23 1268309 1 1415928093
+/
+101.226.168.247
+0 1 1 1628 1 1415614439
+/galleryarena1.htm
+c83-254-34-163.bredband.comhem.se
+0 24 23 1269457 1 1415492099
+/
+62-63-40-113.static.customer.pronea.no
+0 73 66 3432142 1 1416821003
+/galleryarena1.htm
+81-224-252-240-no80.tbcn.telia.com
+0 141 124 6839778 1 1415985550
+/
+h176-10-222-133.docsis.dyn.cust-ip.bdtv.se
+0 108 98 5582122 1 1415108674
+/
+a0186.students.ltu.se
+0 100 88 4186791 1 1415114076
+/galleryguest1.htm
+host206.181-1-54.telecom.net.ar
+0 22 22 1266507 1 1416812219
+/
+baiduspider-123-125-71-86.crawl.baidu.com
+0 1 0 0 1 1415582305
+/contact.htm
+fetcher10-6.p.mail.ru
+0 12 7 279101 2 1415044560
+/
+105.157.135.134
+0 23 23 1268309 1 1416918560
+/
+c-31-209-57-83.cust.bredband2.com
+0 108 95 5228761 1 1415295574
+/info.htm
+po18-218.co2-6nf-srch-2a.ntwk.msn.net
+0 3 2 2837 0 0
+-
+61.135.190.101
+0 2 2 5667 1 1416167746
+/
+69.171.245.112
+0 2 2 26886 0 0
+-
+msnbot-157-55-39-166.search.msn.com
+0 4 2 5422 2 1414999403
+/
+81-224-97-131-no59.bredband.skanova.com
+0 50 48 3101586 1 1415693088
+/service.htm
+199.19.249.196
+0 5 5 31937 1 1416300127
+/
+173.252.102.118
+0 7 7 15507 0 0
+-
+proxy1.classic.com.np
+0 23 23 1268309 1 1415846960
+/
+90-230-127-142-no116.tbcn.telia.com
+0 142 137 6574198 3 1416855465
+/
+69.171.245.117
+0 4 4 27625 0 0
+-
+90-230-20-241-no59.tbcn.telia.com
+0 81 67 4447510 1 1416131718
+/contact.htm
+host-95-195-139-166.mobileonline.telia.com
+0 85 76 3833017 1 1416921213
+/service.htm
+112.111.191.62
+0 4 2 6688 1 1416080606
+/contact.htm/trackback/
+159.226.95.66
+0 1 1 1563 1 1416331915
+/
+90-224-86-253-no116.tbcn.telia.com
+0 118 90 5466646 1 1415544819
+/nyheter.htm
+crawl-66-249-67-151.googlebot.com
+0 9 1 2711 7 1415814174
+/
+out-ar117.tfbnw.net
+0 1 1 21465 0 0
+-
+crawl-66-249-78-27.googlebot.com
+0 12 9 16427 8 1416942233
+/
+host-95-199-139-17.mobileonline.telia.com
+0 23 23 1268309 1 1415192435
+/
+177-189-208-184.dsl.telesp.net.br
+0 23 23 1268309 1 1416839762
+/
+66.220.156.119
+0 31 31 101257 0 0
+-
+crawl-66-249-64-107.googlebot.com
+0 2 2 2042 1 1414865297
+/
+b1b48789.virtua.com.br
+0 23 23 1268309 1 1415552922
+/
+c-5eeaaa73-74736162.cust.telenor.se
+0 160 152 7694873 2 1415455781
+/galleryarena1.htm
+msnbot-157-55-39-123.search.msn.com
+0 3 2 7347 1 1416250555
+/contact.htm
+baiduspider-220-181-108-119.crawl.baidu.com
+0 1 1 64443 0 0
+-
+host-95-195-206-221.mobileonline.telia.com
+0 39 39 2544956 1 1415815384
+/contact.htm
+c-771770d5.015-259-626f6410.cust.bredbandsbolaget.se
+0 82 81 5192942 2 1416833176
+/contact.htm
+150-70-173-11.trendmicro.com
+0 1 1 9527 1 1415507243
+/contact.htm
+host-95-195-205-53.mobileonline.telia.com
+0 85 76 3833017 1 1416657708
+/service.htm
+169.79.26.117.broad.pt.fj.dynamic.163data.com.cn
+0 4 3 7736 2 1416542254
+/contact.htm/trackback/
+81-231-74-211-no27.tbcn.telia.com
+0 19 19 496744 1 1415524384
+/
+64.230.150.27.broad.pt.fj.dynamic.163data.com.cn
+0 10 7 18816 3 1416618042
+/contact.htm
+host-95-199-17-13.mobileonline.telia.com
+0 36 35 1434162 1 1416759026
+/contact.htm
+crawl-192-99-107-82.meanpathbot.com
+0 4 2 5422 2 1416911413
+/
+201-35-191-38.cslce700.dsl.brasiltelecom.net.br
+0 23 23 1268309 1 1414842398
+/
+crawl-66-249-67-23.googlebot.com
+0 84 16 35475 58 1416970710
+/
+crawl-66-249-69-131.googlebot.com
+0 7 6 376880 2 1416634178
+/info.htm
+198.252.44.5
+0 2 2 11834 2 1415679947
+/
+31.13.102.121
+0 2 2 10876 0 0
+-
+srv1.cashuba.com
+0 3 0 3444 1 1415699919
+/
+h109-225-127-224.dynamic.se.alltele.net
+0 60 57 4417299 2 1414968628
+/nyheter.htm
+host-95-199-223-115.mobileonline.telia.com
+0 23 23 1268309 1 1416656252
+/
+m37-196-151-214.cust.tele2.se
+0 97 92 5232143 1 1415184422
+/galleryarena1.htm
+46-236-96-161.customer.t3.se
+0 1 1 1563 1 1414867875
+/
+211.33.132.251
+0 118 89 4521595 1 1414965139
+/galleryguest1.htm
+c-94-255-235-153.cust.bredband2.com
+0 47 46 3759928 1 1416156781
+/service.htm
+host-78-78-49-141.mobileonline.telia.com
+0 145 130 7348232 1 1415523394
+/galleryfortet1.htm
+175.42.87.3
+0 8 4 13376 2 1416290028
+/contact.htm/trackback/
+191-112-41-197.baf.movistar.cl
+0 23 23 1147491 1 1416062278
+/
+h77-53-101-63.dynamic.se.alltele.net
+0 62 59 3286318 1 1416321917
+/contact.htm
+baiduspider-220-181-108-166.crawl.baidu.com
+0 2 1 5847 1 1416732958
+/
+msnbot-157-55-39-233.search.msn.com
+0 2 1 2711 1 1415048919
+/
+ns500924.ip-198-27-64.net
+0 2 1 7065 1 1416668726
+/
+f420.ip15.netikka.fi
+0 2 1 7065 1 1416510612
+/
+173.252.102.114
+0 8 8 31484 0 0
+-
+109.58.144.145.bredband.tre.se
+0 29 29 2480570 1 1414852350
+/nyheter.htm
+h109-225-124-221.dynamic.se.alltele.net
+0 1 1 1084572 0 0
+-
+173.252.120.113
+0 1 1 57631 0 0
+-
+msnbot-157-55-39-132.search.msn.com
+0 1 1 631 0 0
+-
+boson012.ahrefs.com
+0 6 6 391066 3 1416694110
+/nyheter.htm
+78-69-140-138-no116.tbcn.telia.com
+0 112 100 5630630 1 1414929567
+/galleryfortet1.htm
+209-222-8-67.constant.com
+0 4 4 7194 4 1417144631
+/info.htm
+bd219839.virtua.com.br
+0 23 23 1268309 1 1415832390
+/
+free.msk.ispsystem.net
+0 3 0 3444 1 1415136974
+-
+31.13.102.120
+0 8 8 30507 0 0
+-
+b110039.yse.yahoo.net
+0 14 8 19201 8 1416814378
+/service.htm
+31.6.45.107
+0 2 2 11834 2 1415020328
+/
+217-211-119-253-no27.tbcn.telia.com
+0 5 0 5740 0 0
+-
+173.252.113.119
+0 1 1 1451 0 0
+-
+81-236-241-54-no27.tbcn.telia.com
+0 162 133 7430699 1 1416662654
+/
+209-222-8-59.constant.com
+0 1 1 1563 1 1417222457
+/
+boson095.ahrefs.com
+0 1 0 1148 0 0
+-
+61.135.190.220
+0 2 2 8208 0 0
+-
+189-31-20-127.dsl.pmjce700.brasiltelecom.net.br
+0 22 22 259116 1 1416625412
+/
+95.109.39.185
+0 68 64 2436479 1 1415456029
+/galleryfortet1.htm
+msnbot-157-55-39-22.search.msn.com
+0 1 1 812 0 0
+-
+66.220.156.115
+0 33 33 119623 1 1416322072
+/contact.htm
+112.111.188.10
+0 2 1 3344 1 1416169895
+/contact.htm/trackback/
+boson050.ahrefs.com
+0 3 3 137910 1 1417070030
+/
+pub173-128.pub.ltu.se
+0 23 23 1268309 1 1416481815
+/
+serrana--186-219-131-28.ded.srt.net.br
+0 22 22 1266460 1 1416340907
+/
+173.252.102.113
+0 8 8 24360 0 0
+-
+90-225-49-131-no59.bredband.skanova.com
+0 92 70 3755163 2 1415533658
+/
+ip-151-188-230-46.dialup.ice.net
+0 24 23 1218130 1 1416951617
+/service.htm
+boson032.ahrefs.com
+0 3 3 130470 1 1416353864
+/nyheter.htm
+boson042.ahrefs.com
+0 2 2 65163 1 1415016517
+/birthdaycard.htm
+173.252.102.117
+0 15 15 102828 0 0
+-
+195.67.183.246
+0 37 35 1435310 1 1415877185
+/contact.htm
+ec2-54-190-65-172.us-west-2.compute.amazonaws.com
+0 1 1 1563 1 1416888977
+/
+173.252.105.116
+0 10 10 46065 0 0
+-
+38992.maxided.com
+0 1 1 1563 1 1415458238
+/
+92.f5.344a.static.theplanet.com
+0 1 1 5917 1 1415911973
+/
+host-95-195-218-149.mobileonline.telia.com
+0 30 29 210918 1 1415181769
+/contact.htm
+187.59.89.32.static.host.gvt.net.br
+0 17 17 369014 1 1416088688
+/
+31.13.102.123
+0 8 8 23739 0 0
+-
+150-70-173-44.trendmicro.com
+0 1 1 9527 1 1415032479
+/contact.htm
+h79-138-7-43.dynamic.se.alltele.net
+0 172 158 8349596 1 1415382059
+/info.htm
+security.lightspeedsystems.com
+0 14 12 92923 1 1416122334
+/galleryfortet1.htm
+81-226-229-241-no59.tbcn.telia.com
+0 247 231 12829764 3 1415298224
+/galleryarena1.htm
+baiduspider-123-125-71-71.crawl.baidu.com
+0 1 0 0 1 1414963793
+/
+36.73.122.139
+0 1 1 2581 0 0
+-
+81-225-123-144-no59.bredband.skanova.com
+0 195 182 8184353 3 1415470004
+/contact.htm
+boson098.ahrefs.com
+0 6 6 519836 1 1416064872
+/galleryfortet1.htm
+baiduspider-123-125-71-46.crawl.baidu.com
+0 1 1 1116928 0 0
+-
+95.109.43.41
+0 51 25 1305072 1 1415447850
+/
+195.196.62.48
+0 301 281 16277118 5 1416658019
+/service.htm
+msnbot-207-46-13-40.search.msn.com
+0 4 2 1087256 0 0
+-
+host-90-232-12-123.mobileonline.telia.com
+0 35 35 1433014 1 1414841421
+/contact.htm
+173.252.122.122
+0 1 1 5847 0 0
+-
+213.50.26.234
+0 95 90 5085586 1 1416854997
+/contact.htm
+msnbot-207-46-13-84.search.msn.com
+0 22 11 2228293 8 1416888919
+-
+36.250.163.103
+0 2 1 3344 1 1415586283
+/contact.htm/trackback/
+81-226-229-40-no59.tbcn.telia.com
+0 48 46 2695164 1 1415034347
+/birthdaycard.htm
+216.38.216.197
+0 5 5 45215 1 1415331932
+/
+dnsresearch.dnsdigger.com
+0 2 2 11834 2 1415504905
+/
+173.252.81.115
+0 2 2 4430 0 0
+-
+out-ar113.tfbnw.net
+0 1 1 21465 0 0
+-
+cable-178-148-31-174.dynamic.sbb.rs
+0 23 23 1268309 1 1415997146
+/
+host-95-195-222-186.mobileonline.telia.com
+0 122 122 2062324 2 1415450148
+/contact.htm
+out.docunordic.net
+0 109 97 7580366 1 1415721519
+/
+spider-100-43-85-11.yandex.com
+0 1 1 1563 1 1415563689
+/
+173.252.105.119
+0 8 8 55694 0 0
+-
+150-70-173-56.trendmicro.com
+0 1 1 5917 1 1415032446
+/
+66.220.144.17
+0 55 52 3711979 2 1415026842
+/service.htm
+189-12-123-160.user.veloxzone.com.br
+0 22 22 1266845 1 1416067922
+/
+h201n7.lunet.ias.bredband.telia.com
+0 42 41 2646423 1 1415440843
+/contact.htm
+173.252.81.113
+0 7 7 22872 0 0
+-
+host246.axfood.se
+0 37 35 1464184 1 1416849347
+/contact.htm
+msnbot-199-30-24-5.search.msn.com
+0 4 4 26696 0 0
+-
+host-95-199-150-26.mobileonline.telia.com
+0 19 0 0 0 0
+-
+184.pichincha.andinanet.net
+0 23 23 1268309 1 1416364483
+/
+217-209-199-76-no227.tbcn.telia.com
+0 23 23 1268309 1 1416159423
+/
+fetcher10-2.p.mail.ru
+0 18 11 324900 1 1415039026
+-
+zt118.tfbnw.net
+0 1 1 5847 0 0
+-
+c-46-162-67-229.cust.bredband2.com
+0 120 106 6278612 1 1415362699
+/birthdaycard.htm
+173.252.100.113
+0 1 1 1738 0 0
+-
+150-70-173-14.trendmicro.com
+0 1 1 9527 1 1415110705
+/contact.htm
+boson015.ahrefs.com
+0 1 0 1148 0 0
+-
+173.252.113.113
+0 2 2 4283 0 0
+-
+host-95-195-139-30.mobileonline.telia.com
+0 141 116 6768585 1 1415131744
+/galleryfortet1.htm
+gatekeeper.handelsbanken.se
+0 48 47 2695579 1 1416300123
+/
+c-af0371d5.015-7-6c756c1.cust.bredbandsbolaget.se
+0 129 76 2283063 1 1415725454
+/
+173.252.100.114
+0 2 2 4878 0 0
+-
+217-208-74-26-no116.tbcn.telia.com
+0 23 23 1268309 1 1415998911
+/
+host-95-199-140-11.mobileonline.telia.com
+0 1 1 30608 0 0
+-
+boson048.ahrefs.com
+0 2 2 154843 1 1417248448
+/contact.htm
+173.252.112.114
+0 1 1 2966 0 0
+-
+36.81.64.189
+0 5 5 712079 0 0
+-
+h185-31-143-106.eth.dyn.cust-ip.bdtv.se
+0 39 39 2544956 1 1416865586
+/contact.htm
+crawl-192-99-107-226.meanpathbot.com
+0 2 1 2711 1 1416191349
+/
+host-95-195-202-13.mobileonline.telia.com
+0 121 113 6450807 1 1416755923
+/contact.htm
+crawl-66-249-67-47.googlebot.com
+0 3 1 3859 1 1415151823
+/
+187-14-194-180.user.veloxzone.com.br
+0 17 17 476253 1 1414952628
+/
+h188-122-149-10.dynamic.se.alltele.net
+0 35 35 1433014 1 1415815118
+/contact.htm
+host-95-199-129-185.mobileonline.telia.com
+0 1 1 1084572 0 0
+-
+81-235-205-139-no59.tbcn.telia.com
+0 136 118 6700580 1 1416862333
+/galleryguest1.htm
+101.226.166.224
+0 1 1 1628 1 1415913017
+/galleryarena1.htm
+212.10.164.82.customer.cdi.no
+0 1 1 32948 0 0
+-
+boson035.ahrefs.com
+0 2 2 191423 0 0
+-
+crawl-66-249-67-155.googlebot.com
+0 13 10 437079 2 1416878840
+/galleryarena1.htm
+192.36.28.75
+0 60 57 3185999 1 1415889519
+/contact.htm
+pa49-197-187-73.pa.qld.optusnet.com.au
+0 36 36 427839 1 1415240777
+/
+198.252.44.14
+0 5 5 29585 5 1416748313
+/
+scotcaa2.miniserver.com
+0 1 0 1148 0 0
+-
+36.73.98.69
+0 6 6 215316 0 0
+-
+46-236-97-204.customer.t3.se
+0 95 91 3996337 1 1416238835
+/contact.htm
+95.0.148.242.dynamic.ttnet.com.tr
+0 5 0 5740 0 0
+-
+88.129.161.128
+0 252 222 12714900 3 1415462692
+/
+host-95-199-9-202.mobileonline.telia.com
+0 23 23 1268309 1 1417024636
+/
+104.143.12.42
+0 12 11 66235 4 1416164593
+/
+d83-183-106-19.cust.tele2.se
+0 25 25 272466 1 1416151253
+/
+81-229-191-119-no31.tbcn.telia.com
+0 3 3 158272 0 0
+-
+66.220.156.117
+0 34 34 118993 3 1415548573
+/
+li323-188.members.linode.com
+0 1 1 5917 1 1416421971
+/
+177.42.96.102.dynamic.adsl.gvt.net.br
+0 23 23 1268309 1 1416588011
+/
+112.198.90.148
+0 23 23 1136611 1 1416343359
+/
+173.252.122.119
+0 5 5 18547 0 0
+-
+31.13.102.117
+0 3 3 13456 0 0
+-
+h-147-233.a159.priv.bahnhof.se
+0 57 52 2027287 1 1414867097
+/galleryarena1.htm
+193.201.224.23
+0 18 9 30096 9 1416099256
+/contact.htm/trackback/
+46-236-96-7.customer.t3.se
+0 59 59 2734271 2 1416151368
+/contact.htm
+173.252.122.123
+0 3 3 5452 0 0
+-
+baiduspider-220-181-108-178.crawl.baidu.com
+0 1 0 0 1 1415374491
+/
+66.220.156.118
+0 32 32 130837 1 1416951538
+/service.htm
+175.42.86.32
+0 16 8 26752 3 1415411161
+/contact.htm/trackback/
+177-44-29-181.vga.mastercabo.com.br
+0 22 22 866420 1 1416673095
+/
+host-95-199-203-217.mobileonline.telia.com
+0 75 71 2657704 1 1415949930
+/galleryarena1.htm
+h31-3-233-120.host.redstation.co.uk
+0 13 13 76921 13 1416925993
+/
+baiduspider-123-125-71-14.crawl.baidu.com
+0 1 1 64443 0 0
+-
+ec2-54-82-133-123.compute-1.amazonaws.com
+0 1 0 1148 1 1416105616
+-
+host-95-195-158-238.mobileonline.telia.com
+0 87 72 2655557 1 1416093657
+/info.htm
+81-230-27-77-no59.bredband.skanova.com
+0 40 40 1439122 2 1416067116
+/
+crawl-66-249-67-4.googlebot.com
+0 12 4 7373 9 1415818115
+/service.htm
+c-204-244.eduroam.liu.se
+0 58 55 2033406 1 1415877975
+/galleryarena1.htm
+pub95-107.pub.ltu.se
+0 58 53 2076353 1 1416830656
+/contact.htm
+217-208-74-202-no116.tbcn.telia.com
+0 226 210 11736061 5 1415455319
+/contact.htm
+213-67-168-16-no27.tbcn.telia.com
+0 23 23 1056671 1 1415104149
+/
+baiduspider-220-181-108-169.crawl.baidu.com
+0 1 0 0 1 1415459201
+/contact.htm
+173.252.102.119
+0 12 12 95196 0 0
+-
+h46-59-40-120.docsis.dyn.cust-ip.bdtv.se
+0 138 110 6923422 2 1414951515
+/nyheter.htm
+54.7.207.91.unknown.steephost.net
+0 1 1 1563 1 1415553909
+/
+boson058.ahrefs.com
+0 3 3 153206 1 1416148250
+/galleryguest1.htm
+193.180.154.159
+0 24 23 1269457 1 1416924592
+/
+h185-57-87-158.eth.dyn.cust-ip.bdtv.se
+0 121 114 5586324 2 1416150802
+/
+173.252.100.116
+0 5 5 17717 0 0
+-
+h185-31-143-68.eth.dyn.cust-ip.bdtv.se
+0 169 128 6871133 1 1415709261
+/galleryfortet1.htm
+c-83-233-156-198.cust.bredband2.com
+0 35 35 1433014 1 1416055239
+/contact.htm
+crawl-66-249-67-39.googlebot.com
+0 2 2 3126 2 1415823118
+/
+90-230-125-207-no116.tbcn.telia.com
+0 29 29 2440226 1 1415387037
+/service.htm
+crawl-66-249-64-115.googlebot.com
+0 2 2 1951 1 1414882623
+/
+101.226.169.199
+0 1 1 1628 1 1416311850
+/galleryarena1.htm
+host-95-195-130-196.mobileonline.telia.com
+0 36 35 1434162 1 1415546984
+/contact.htm
+h111n5-s-oev-a31.ias.bredband.telia.com
+0 46 43 1933161 1 1416773567
+/info.htm
+195.196.62.56
+0 102 98 5565717 2 1416492120
+/
+crawl-66-249-79-143.googlebot.com
+0 1 1 4104 0 0
+-
+69.171.245.116
+0 1 1 2434 0 0
+-
+31.red-83-52-100.dynamicip.rima-tde.net
+0 23 23 1268309 1 1416250017
+/
+h141n13-u-a32.ias.bredband.telia.com
+0 1 1 1084572 0 0
+-
+h46-59-43-110.docsis.dyn.cust-ip.bdtv.se
+0 36 35 3653635 1 1415061043
+/service.htm
+69.58.178.57
+0 11 10 77240 1 1416304228
+/galleryfortet1.htm
+host132-1-dynamic.249-95-r.retail.telecomitalia.it
+0 23 23 1268309 1 1415580787
+/
+boson046.ahrefs.com
+0 4 3 223179 1 1416741962
+/
+hn.kd.ny.adsl
+0 21 18 36770 10 1417008207
+/galleryarena1.htm
+h46-59-40-9.docsis.dyn.cust-ip.bdtv.se
+0 128 122 6550773 2 1415466084
+/contact.htm
+google-proxy-66-249-84-125.google.com
+0 2 1 2711 1 1414907641
+/
+s0-0.paconsult7.bbnplanet.net
+0 16 16 246218 1 1415890923
+/
+fetcher10-4.p.mail.ru
+0 18 8 453876 2 1414977076
+/galleryarena1.htm
+bot01.kalgor.com
+0 2 2 3126 2 1416827088
+/
+177.97.32.dynamic.adsl.gvt.net.br
+0 23 23 1268309 1 1415964972
+/
+201-69-76-114.dial-up.telesp.net.br
+0 21 21 521213 1 1414965644
+/
+boson055.ahrefs.com
+0 4 4 229283 2 1416213746
+/
+c-46-162-85-165.cust.bredband2.com
+0 113 106 5148400 1 1415206543
+/contact.htm
+50-193-61-78-static.hfc.comcastbusiness.net
+0 3 0 3444 1 1415110371
+-
+m90-144-180-185.cust.tele2.se
+0 61 59 3285170 1 1415444706
+/contact.htm
+125.subnet125-163-234.speedy.telkom.net.id
+0 11 10 32191 1 1416818656
+/
+host-78-78-90-79.mobileonline.telia.com
+0 111 40 1755990 1 1415823465
+/
+158.85.89.4
+0 1 0 1148 0 0
+-
+46.229.164.114
+0 2 1 2711 1 1416919692
+/
+173.252.101.117
+0 2 2 67964 0 0
+-
+m83-185-243-244.cust.tele2.se
+0 1 1 95605 0 0
+-
+31.13.102.118
+0 6 6 26412 1 1414942950
+/
+m37-3-207-215.cust.tele2.se
+0 23 23 1268309 1 1415908382
+/
+crawl-66-249-65-87.googlebot.com
+0 7 2 4127 5 1415485288
+/
+host-95-199-26-241.mobileonline.telia.com
+0 30 29 210918 1 1415213352
+/contact.htm
+bd37b766.virtua.com.br
+0 23 23 980291 1 1416330487
+/
+187.229.159.27.broad.pt.fj.dynamic.163data.com.cn
+0 13 10 25404 9 1416177230
+/contact.htm
+msnbot-157-55-39-167.search.msn.com
+0 1 1 1563 1 1415094118
+/
+c-d01770d5.01-145-626f6410.cust.bredbandsbolaget.se
+0 41 13 1275613 1 1415024068
+/
+host-95-199-220-66.mobileonline.telia.com
+0 29 29 209770 1 1416322110
+/contact.htm
+j86106.upc-j.chello.nl
+0 30 30 522647 1 1415294106
+/galleryguest2.htm
+fetcher10-7.p.mail.ru
+0 8 4 78901 1 1416198800
+/galleryguest1.htm
+208.115.113.87
+0 141 23 326628 52 1416907984
+-
+112.111.191.41
+0 2 1 3344 1 1415871988
+/contact.htm/trackback/
+117.200.7.6
+0 23 23 517371 1 1416441607
+/
+msnbot-207-46-13-43.search.msn.com
+0 11 0 12628 3 1415222524
+-
+147.cpe-186-70-226.gye.satnet.net
+0 23 23 1268309 1 1416791205
+/
+173.252.105.113
+0 10 10 102562 0 0
+-
+140.237.5.178
+0 3 2 5540 1 1416543255
+/contact.htm/trackback/
+112.111.190.28
+0 15 9 26652 2 1416693672
+/contact.htm/trackback/
+boson099.ahrefs.com
+0 3 3 427097 0 0
+-
+173.252.113.112
+0 3 3 5526 0 0
+-
+host4.whatsappmarketingbr.com
+0 23 23 1268309 1 1415097311
+/
+213.50.27.15
+0 35 35 1433014 1 1415467737
+/contact.htm
+81-235-188-77-no48.tbcn.telia.com
+0 24 23 1269457 1 1415455701
+/
+host-95-199-11-100.mobileonline.telia.com
+0 30 29 210918 1 1415619820
+/contact.htm
+baiduspider-220-181-108-180.crawl.baidu.com
+0 1 0 0 1 1415594531
+/
+host-95-195-208-206.mobileonline.telia.com
+0 23 23 1268309 1 1416230216
+/
+213.50.27.111
+0 119 110 6652802 1 1415985809
+/service.htm
+195-154-179-244.rev.poneytelecom.eu
+0 18 18 122712 1 1416849344
+/
+209-222-8-75.constant.com
+0 1 1 1563 1 1417222307
+/
+82.192.75.62
+0 14 13 97692 1 1416767596
+/
+69.171.248.4
+0 3 3 25686 0 0
+-
+msnbot-157-55-39-98.search.msn.com
+0 10 6 17047 4 1415173248
+-
+host-95-195-204-169.mobileonline.telia.com
+0 29 28 1356802 1 1415969492
+/service.htm
+host-95-195-204-26.mobileonline.telia.com
+0 94 89 4106538 1 1415384849
+/nyheter.htm
+61.135.190.100
+0 2 2 5667 1 1416616150
+/
+host81-133-97-106.in-addr.btopenworld.com
+0 1 1 1563 1 1415809015
+/
+193.150.120.176
+0 2 0 2296 1 1415013683
+-
+msnbot-157-55-39-124.search.msn.com
+0 36 15 222542 13 1416637574
+-
+c-5f00e253.73-1-64736c10.cust.bredbandsbolaget.se
+0 79 73 4566571 1 1416239833
+/birthdaycard.htm
+boson088.ahrefs.com
+0 2 2 111242 1 1416583522
+/
+host-95-199-129-246.mobileonline.telia.com
+0 15 11 2243902 2 1416147557
+/nyheter.htm
+host-95-195-221-17.mobileonline.telia.com
+0 3 0 3444 0 0
+-
+host-95-195-212-101.mobileonline.telia.com
+0 45 44 2730228 1 1415459463
+/contact.htm
+boson062.ahrefs.com
+0 4 4 300097 0 0
+-
+broadband-37.204-151-2.nationalcablenetworks.ru
+0 23 23 1268309 1 1416952048
+/
+boson073.ahrefs.com
+0 2 2 314551 0 0
+-
+boson097.ahrefs.com
+0 1 1 1628 1 1415194733
+/galleryarena1.htm
+h46-59-42-66.docsis.dyn.cust-ip.bdtv.se
+0 90 81 5042909 1 1415382934
+/info.htm
+crawl-66-249-67-3.googlebot.com
+0 11 9 17520 6 1417279624
+/info.htm
+173.252.81.116
+0 5 5 43576 0 0
+-
+h109-225-126-225.dynamic.se.alltele.net
+0 35 33 1324008 1 1416245562
+/service.htm
+boson047.ahrefs.com
+0 3 3 247933 0 0
+-
+boson027.ahrefs.com
+0 1 0 1148 0 0
+-
+90-231-231-127-no109.tbcn.telia.com
+0 62 57 3188295 1 1415375408
+/contact.htm
+host202-202-dynamic.9-79-r.retail.telecomitalia.it
+0 23 23 1268309 1 1415744095
+/
+36.250.180.64
+0 18 9 30096 4 1414977172
+-
+bd67309e.virtua.com.br
+0 23 23 1268309 1 1416950491
+/
+c193-14-109-200.cust.tele2.se
+0 14 14 276253 1 1414973211
+/
+c-b21c8344-74736162.cust.telenor.se
+0 134 124 6831742 1 1415215254
+/
+173.252.122.117
+0 1 1 4003 0 0
+-
+87.178.86.109.triolan.net
+0 3 0 3444 1 1414962293
+-
+c-46-162-66-98.cust.bredband2.com
+0 25 23 1270605 1 1414930962
+/
+boson004.ahrefs.com
+0 1 0 1148 0 0
+-
+90-230-224-167-no152.business.telia.com
+0 66 63 4398260 1 1416393159
+/contact.htm
+msnbot-157-55-39-220.search.msn.com
+0 4 2 5422 2 1416345658
+/
+117.78.13.29
+0 4 2 5422 2 1416175322
+/
+boson072.ahrefs.com
+0 1 0 1148 0 0
+-
+host-90-237-248-58.mobileonline.telia.com
+0 1 1 2196 1 1416760344
+/contact.htm
+112.111.189.13
+0 4 2 6688 2 1415232373
+/contact.htm/trackback/
+vs2-84-91-52-88.netvisao.pt
+0 23 23 1268309 1 1416848788
+/
+crawl-66-249-78-34.googlebot.com
+0 11 8 14864 7 1416450170
+/
+104.143.12.10
+0 12 12 71004 4 1416563425
+/
+81-229-86-21-no66.tbcn.telia.com
+0 24 23 1269457 1 1415042378
+/
+208.66.74.106
+0 74 37 123728 31 1415232246
+/contact.htm/trackback/
+bl19-200-158.dsl.telepac.pt
+0 23 23 1268309 1 1416915324
+/
+customer-urua-240-239.megared.net.mx
+0 23 23 1268309 1 1415344082
+/
+36.248.160.67
+0 8 4 13376 2 1414997479
+-
+boson010.ahrefs.com
+0 3 3 347637 0 0
+-
+90-224-86-149-no116.tbcn.telia.com
+0 98 98 5227900 3 1414937093
+/contact.htm
+crawl-66-249-69-87.googlebot.com
+0 15 4 33749 10 1416645185
+/
+crawl-66-249-67-11.googlebot.com
+0 10 8 164339 3 1417291927
+/nyheter.htm
+173.252.113.118
+0 4 4 21103 0 0
+-
+host-95-195-205-31.mobileonline.telia.com
+0 17 16 42109 0 0
+-
+spider-5-255-253-214.yandex.com
+0 75 51 110354 19 1416202510
+/
+crawl-66-249-64-87.googlebot.com
+0 15 6 9378 9 1414909120
+/
+m77-218-243-246.cust.tele2.se
+0 70 64 4403267 1 1415454919
+/nyheter.htm
+101.226.168.246
+0 1 1 2440 1 1416962119
+/info.htm
+31.13.96.147
+0 1 0 1148 0 0
+-
+crawl-66-249-78-101.googlebot.com
+0 64 12 197485 44 1416995007
+/nyheter.htm
+crawl-66-249-79-23.googlebot.com
+0 1 0 0 1 1416522153
+/contact.htm
+h-143-31.a176.priv.bahnhof.se
+0 151 127 7206669 1 1416771069
+/galleryfortet1.htm
+66.223.167.190.d.dyn.codetel.net.do
+0 2 2 654977 0 0
+-
+h185-57-87-51.eth.dyn.cust-ip.bdtv.se
+0 69 66 4415215 1 1415397792
+/galleryarena1.htm
+www.whois.sc
+0 2 1 2711 1 1416751343
+/
+ip-173-188-230-46.dialup.ice.net
+0 134 123 5868144 1 1415396955
+/galleryguest1.htm
+boson044.ahrefs.com
+0 1 1 977 1 1416261041
+/birthdaycard.htm
+host-95-195-195-18.mobileonline.telia.com
+0 24 23 1269457 1 1415990690
+/
+host-95-199-157-216.mobileonline.telia.com
+0 39 39 2544956 1 1415112508
+/contact.htm
+h154n4.piteenergi.ias.bredband.telia.com
+0 98 92 5205290 1 1415790375
+/contact.htm
+host-95-199-141-104.mobileonline.telia.com
+0 37 36 1467110 1 1415989948
+/contact.htm
+173.252.100.119
+0 4 4 76783 0 0
+-
+host-95-199-135-91.mobileonline.telia.com
+0 2 0 2296 0 0
+-
+173.252.74.115
+0 1 1 1084572 0 0
+-
+tillvaxtverkianer.tillvaxtverket.se
+0 25 23 1270605 1 1416213799
+/
+static.174.124.251.148.clients.your-server.de
+0 2 1 7065 1 1414919417
+/
+186.227.38.121-cliente.icenet.com.br
+0 24 24 383239 1 1416849843
+/
+c-46-162-69-242.cust.bredband2.com
+0 88 84 7240232 1 1415445034
+/
+81-231-105-245-no27.tbcn.telia.com
+0 87 81 5039465 1 1416648875
+/service.htm
+net-188-153-203-235.cust.dsl.teletu.it
+0 23 23 1268309 1 1416160544
+/
+h85-30-9-81.static.se.alltele.net
+0 174 127 6880072 1 1416681128
+/service.htm
+81-232-152-153-no27.tbcn.telia.com
+0 60 57 3185999 1 1415273301
+/contact.htm
+crawl-66-249-79-31.googlebot.com
+0 1 0 1148 0 0
+-
+186.32.182.22
+0 36 36 2409106 1 1416093894
+/
+baiduspider-180-76-5-19.crawl.baidu.com
+0 1 0 1148 0 0
+-
+c-46-162-80-143.cust.bredband2.com
+0 63 61 3204175 1 1416664903
+/galleryarena1.htm
+crawl-66-249-67-127.googlebot.com
+0 21 15 27983 13 1416891103
+/
+mj1.naefmarco.ch
+0 2 1 7065 1 1416322957
+/
+h87n12-g-ml-a11.ias.bredband.telia.com
+0 99 92 4877605 1 1415740089
+/info.htm
+81-236-242-177-no27.tbcn.telia.com
+0 37 36 1435725 2 1416869367
+/
+orion2775.server4you.de
+0 3 3 17751 1 1416577543
+/
+180.246.180.198
+0 2 2 21942 0 0
+-
+ec2-54-172-146-92.compute-1.amazonaws.com
+0 5 2 17165 2 1415275788
+/service.htm
+crawl-66-249-65-147.googlebot.com
+0 4 3 5837 3 1415536921
+/
+static.88-198-56-239.clients.your-server.de
+0 1 0 1148 1 1415743308
+-
+host-95-199-141-153.mobileonline.telia.com
+0 37 15 229824 1 1415447995
+/contact.htm
+78-82-219-243.tn.glocalnet.net
+0 1 1 1084572 0 0
+-
+cpc3-craw6-2-0-cust5.croy.cable.virginm.net
+0 2 1 7065 1 1415834614
+/
+m77-218-252-14.cust.tele2.se
+0 65 62 3343645 1 1415054270
+/galleryarena1.htm
+78-69-143-222-no116.tbcn.telia.com
+0 130 117 6407189 1 1416497202
+/contact.htm
+msnbot-65-55-210-88.search.msn.com
+0 8 6 377621 0 0
+-
+h238n3.lunet.ias.bredband.telia.com
+0 88 80 3064221 1 1414960663
+/info.htm
+213-64-227-201-no70.tbcn.telia.com
+0 23 23 1268309 1 1415519580
+/
+h46-59-40-252.docsis.dyn.cust-ip.bdtv.se
+0 46 45 3758365 1 1414882245
+/contact.htm
+173.252.122.118
+0 1 1 1849 0 0
+-
+38.100.21.62
+0 11 11 85141 1 1415835664
+/
+msnbot-207-46-13-51.search.msn.com
+0 2 1 2711 1 1415036146
+/
+crawl-66-249-69-199.googlebot.com
+0 3 0 3444 2 1416659362
+-
+101.226.166.245
+0 1 1 2196 1 1415764547
+/contact.htm
+199.187.122.91
+0 9 2 20395 1 1416456319
+/
+83.233.207.34
+0 98 91 6240806 1 1415192945
+/contact.htm
+crawl-66-249-65-151.googlebot.com
+0 2 1 2711 1 1415462729
+/
+pool-100-34-149-191.phlapa.fios.verizon.net
+0 23 23 1268309 1 1415627869
+/
+crawl-66-249-69-147.googlebot.com
+0 9 9 491534 1 1416643588
+/galleryguest2.htm
+h137n4.lunet.ias.bredband.telia.com
+0 30 29 1440219 1 1416510243
+/
+158.85.89.5
+0 2 0 2296 0 0
+-
+baiduspider-220-181-108-185.crawl.baidu.com
+0 1 0 0 1 1415033329
+/
+gate.precio.se
+0 58 53 2178178 1 1415699829
+/contact.htm
+crawl-66-249-67-143.googlebot.com
+0 22 13 26224 13 1417020077
+/
+boson018.ahrefs.com
+0 1 0 1148 0 0
+-
+static.66.184.251.148.clients.your-server.de
+0 4 2 19532 1 1415032151
+/galleryguest2.htm
+175.42.86.248
+0 9 5 15572 5 1416771616
+/contact.htm
+m90-130-195-204.cust.tele2.se
+0 1 1 30608 0 0
+-
+c-46-162-93-81.cust.bredband2.com
+0 45 43 2724450 2 1416501958
+/
+173.252.81.118
+0 5 5 17218 0 0
+-
+90-224-137-115-no105.business.telia.com
+0 36 35 1434162 1 1415653713
+/contact.htm
+crawl-192-99-107-64.meanpathbot.com
+0 4 2 5422 2 1416831583
+/
+66.220.156.113
+0 24 24 86789 1 1416167443
+/
+msnbot-157-55-39-165.search.msn.com
+0 1 1 1563 1 1415078734
+/
+c-d32fe155.112-2-64736c10.cust.bredbandsbolaget.se
+0 174 136 8517329 1 1416326078
+/galleryguest1.htm
+36.248.170.202
+0 8 4 13376 4 1415631697
+/contact.htm/trackback/
+208-115-111-71-reverse.wowrack.com
+0 126 11 198575 48 1416929215
+-
+msnbot-207-46-13-89.search.msn.com
+0 2 2 2233856 0 0
+-
+cl-07.atm.binero.net
+0 1 1 0 1 1415652434
+/
+host-95-195-209-113.mobileonline.telia.com
+0 24 23 1269457 1 1416225040
+/
+boson007.ahrefs.com
+0 1 1 2196 1 1415810087
+/contact.htm
+pub92-184.pub.ltu.se
+0 79 75 4431276 1 1415025368
+/nyheter.htm
+66.220.156.116
+0 31 30 98663 3 1416398536
+-
+ns3369964.ip-37-187-92.eu
+0 1 1 10893 1 1416411583
+/info.htm
+212-181-32-42.customer.telia.com
+0 36 35 1093398 1 1416561377
+/contact.htm
+cs27065106.pp.htv.fi
+0 2 1 7065 1 1414947195
+/
+crawl-66-249-79-15.googlebot.com
+0 1 0 0 1 1415805228
+/info.htm
+c83-249-155-167.bredband.comhem.se
+0 39 36 1153025 1 1416134048
+/contact.htm
+host-95-195-210-46.mobileonline.telia.com
+0 105 98 3652387 1 1415301447
+/galleryfortet1.htm
+204.236.124.170
+0 22 22 622488 1 1416704524
+/
+crawl-66-249-69-119.googlebot.com
+0 16 2 4274 11 1416656620
+/info.htm
+pub92-99.pub.ltu.se
+0 1 0 1148 0 0
+-
+69.171.245.113
+0 1 1 1876 0 0
+-
+host-95-199-212-97.mobileonline.telia.com
+0 29 29 2440226 1 1416245126
+/service.htm
+boson087.ahrefs.com
+0 3 2 220506 1 1416329784
+/
+msnbot-199-30-16-173.search.msn.com
+0 22 22 1266746 0 0
+-
+91.192.255.147
+0 142 122 5832679 1 1415482102
+/
+213-33-28-141.adsl.highway.telekom.at
+0 1 1 1023182 0 0
+-
+fw.policlinico.unict.it
+0 23 23 1268309 1 1416497407
+/
+175.42.84.204
+0 2 1 3344 1 1416380657
+/contact.htm/trackback/
+h109-225-127-191.dynamic.se.alltele.net
+0 57 55 4315410 1 1415736705
+/
+90-230-20-83-no59.tbcn.telia.com
+0 60 58 2703619 2 1416656333
+/contact.htm
+h79-138-6-238.dynamic.se.alltele.net
+0 143 111 7276568 1 1416257231
+/galleryguest1.htm
+boson011.ahrefs.com
+0 2 2 3389 2 1416901251
+/service.htm
+1-1-7-44a.hud.sth.bostream.se
+0 97 91 4389286 1 1416772472
+/contact.htm
+61.135.190.222
+0 4 4 13875 1 1415537681
+/
+crawl-66-249-67-159.googlebot.com
+0 8 0 0 8 1415791809
+/contact.htm
+79-116-31-254.rdsnet.ro
+0 60 60 1087090 2 1415835756
+/galleryguest2.htm
+h77n4-ll-a31.ias.bredband.telia.com
+0 23 23 1268309 1 1415466376
+/
+root.naefmarco.ch
+0 2 1 3920 1 1415196607
+/birthdaycard.htm
+crawl-192-99-107-172.meanpathbot.com
+0 2 1 2711 1 1414824289
+/
+90-230-128-194-no116.tbcn.telia.com
+0 76 71 2658852 1 1416827695
+/galleryarena1.htm
+62.160.110.187.netlinepb.com.br
+0 20 20 463706 1 1416528677
+/
+92-33-186-209.tn.glocalnet.net
+0 116 99 5618580 1 1415656766
+/contact.htm
+217-210-52-77-no29.tbcn.telia.com
+0 61 53 2079797 1 1416771867
+/contact.htm
+c-89-160-121-122.cust.bredband2.com
+0 82 80 6767178 1 1416243547
+/service.htm
+177-47-230-204.static.techn.net.br
+0 23 23 1268309 1 1415697301
+/
+host-95-195-206-15.mobileonline.telia.com
+0 36 35 3653635 1 1415443291
+/service.htm
+crawl-66-249-69-103.googlebot.com
+0 16 1 2711 10 1416654890
+/contact.htm
+baiduspider-220-181-108-117.crawl.baidu.com
+0 1 0 0 1 1415754411
+/
+180.76.6.142
+0 1 1 1563 1 1416438687
+/
+112.111.189.84
+0 11 6 18916 4 1415680135
+/contact.htm/trackback/
+173.252.102.112
+0 10 10 59917 0 0
+-
+h83-209-149-183.dynamic.se.alltele.net
+0 70 64 4403267 2 1416261432
+/contact.htm
+host-95-195-157-134.mobileonline.telia.com
+0 29 29 2440226 1 1415728627
+/service.htm
+ip213.lunet.riksnet.se
+0 30 29 2441374 1 1416572598
+/service.htm
+host-95-195-221-189.mobileonline.telia.com
+0 85 81 5037169 1 1415738278
+/nyheter.htm
+fetcher10-5.p.mail.ru
+0 16 10 439601 1 1414948552
+/
+c-9978e555.04-55-73746f11.cust.bredbandsbolaget.se
+0 23 23 928587 1 1416612290
+/
+msnbot-207-46-13-12.search.msn.com
+0 9 9 1275813 0 0
+-
+213.50.26.230
+0 126 114 6749210 1 1415314417
+/info.htm
+187-10-56-6.dsl.telesp.net.br
+0 23 23 813411 1 1416695567
+/
+static.8.155.76.144.clients.your-server.de
+0 1 0 1148 1 1416749744
+-
+78-69-142-170-no116.tbcn.telia.com
+0 45 43 1932013 1 1416858911
+/info.htm
+69.171.245.118
+0 2 2 4388 0 0
+-
+90-230-75-136-no134.tbcn.telia.com
+0 65 57 4326749 1 1416767834
+/
+173.252.73.118
+0 1 1 2966 0 0
+-
+c83-255-178-62.bredband.comhem.se
+0 73 70 4485618 1 1415553067
+/info.htm
+81-224-254-221-no80.tbcn.telia.com
+0 24 23 1269457 1 1416076467
+/
+static.39.95.76.144.clients.your-server.de
+0 2 1 3920 1 1415016298
+/birthdaycard.htm
+host-95-199-132-113.mobileonline.telia.com
+0 39 39 2170798 1 1416841642
+/service.htm
+srv136-h-st.jino.ru
+0 1 0 1148 0 0
+-
+36.250.178.121
+0 29 15 49012 7 1415380138
+/contact.htm/trackback/
+tfcust271.egonet.se
+0 55 53 2072909 2 1414927598
+/contact.htm
+101.226.166.254
+0 1 1 2196 1 1417007979
+/contact.htm
+m37-196-101-222.cust.tele2.se
+0 35 35 1433014 1 1414938756
+/contact.htm
+baiduspider-123-125-71-49.crawl.baidu.com
+0 1 0 0 1 1415707518
+/
+187.6.127.30
+0 23 23 1268309 1 1415364244
+/
+173.252.112.119
+0 1 1 2832 0 0
+-
+109-124-154-140.customer.t3.se
+0 86 81 5038317 1 1415568920
+/info.htm
+69.171.245.115
+0 4 4 8122 0 0
+-
+c-122770d5.08-98-6c756c10.cust.bredbandsbolaget.se
+0 96 90 5122730 1 1415438303
+/contact.htm
+crawl-66-249-78-20.googlebot.com
+0 15 11 19435 9 1417000095
+/
+187.161.76.231
+0 3 0 3444 1 1415589437
+-
+144.6.151.186.static.intelnet.net.gt
+0 23 23 1268309 1 1416110309
+/
+173.252.81.119
+0 7 7 48650 0 0
+-
+static-212-247-252-172.cust.tele2.se
+0 59 57 3184851 1 1415743326
+/service.htm
+h185-31-142-202.eth.dyn.cust-ip.bdtv.se
+0 223 209 8453514 4 1416823481
+/birthdaycard.htm
+81.226.186.235
+0 24 24 425503 1 1416871625
+/
+baiduspider-123-125-71-101.crawl.baidu.com
+0 1 0 0 1 1414981846
+/contact.htm
+host-95-195-201-212.mobileonline.telia.com
+0 36 36 1465962 1 1415519605
+/contact.htm
+c-46-162-76-177.cust.bredband2.com
+0 194 177 9045759 2 1416755617
+/service.htm
+crawl-66-249-79-135.googlebot.com
+0 4 3 3578 1 1415731023
+/
+179.254.1.178
+0 23 23 1268309 1 1415962326
+/
+173.252.81.112
+0 11 11 49890 0 0
+-
+78-69-141-142-no116.tbcn.telia.com
+0 103 93 5192441 1 1416938924
+/
+h79-138-6-159.dynamic.se.alltele.net
+0 118 90 5403895 2 1416433436
+/contact.htm
+c-5f0071d5.029-83-6c756c1.cust.bredbandsbolaget.se
+0 37 36 1467110 1 1416691765
+/contact.htm
+host-90-237-179-209.mobileonline.telia.com
+0 87 74 4772652 1 1415822024
+/galleryarena1.htm
+173.252.100.117
+0 2 2 10875 0 0
+-
+194.117.173.241
+0 114 104 4367449 1 1415612846
+/info.htm
+213.50.26.72
+0 169 145 6977207 2 1415547140
+/service.htm
+google-proxy-66-249-81-175.google.com
+0 40 35 3132362 3 1415708662
+/
+h46-59-40-235.docsis.dyn.cust-ip.bdtv.se
+0 506 394 20924041 4 1416771164
+/contact.htm
+81-234-105-203-no80.tbcn.telia.com
+0 117 101 6137447 1 1416818039
+/galleryfortet1.htm
+vpn01.norrmejerier.se
+0 136 116 6659620 1 1415694862
+/galleryguest1.htm
+proxy-1.istella.it
+0 1 1 5917 1 1416792395
+/
+host-95-195-136-10.mobileonline.telia.com
+0 76 68 4425406 1 1416678068
+/galleryarena1.htm
+c-2ec2068d-74736162.cust.telenor.se
+0 57 53 1270195 1 1416595075
+/contact.htm
+h109-225-125-13.dynamic.se.alltele.net
+0 54 52 3907425 1 1415380313
+/contact.htm
+31.13.102.122
+0 7 7 20211 0 0
+-
+78-72-42-89-no186.tbcn.telia.com
+0 1 1 5847 0 0
+-
+boson070.ahrefs.com
+0 2 2 153205 0 0
+-
+61.135.190.102
+0 7 7 18564 4 1417010354
+/
+h185-57-87-185.eth.dyn.cust-ip.bdtv.se
+0 30 30 3524798 1 1415474747
+/service.htm
+c-c21270d5.07-184-626f6410.cust.bredbandsbolaget.se
+0 60 57 3185999 1 1414977047
+/contact.htm
+boson034.ahrefs.com
+0 1 1 109679 0 0
+-
+101.226.167.233
+0 1 1 1628 1 1416065692
+/galleryarena1.htm
+113.166.120.146.serverel.net
+0 1 1 9527 1 1416397196
+/contact.htm
+1061ob.scansafe.net
+0 37 35 1435310 1 1415202894
+/
+bzq-114-71-13.static.bezeqint.net
+0 4 4 6252 4 1416727868
+/
+213-67-81-144-no59.tbcn.telia.com
+0 144 102 6260931 1 1416069571
+/info.htm
+cust-82-99-104-125.alvsbyn.com
+0 155 107 5994775 1 1416771903
+/birthdaycard.htm
+173-10-28-166-busname-utah.ut.hfc.comcastbusiness.net
+0 2 1 7065 1 1415157250
+/
+81-224-97-160-no59.bredband.skanova.com
+0 134 124 6831742 1 1416179069
+/contact.htm
+112.111.191.159
+0 2 1 3344 1 1416945141
+/contact.htm/trackback/
+static-167-110-85-188.ipcom.comunitel.net
+0 21 21 1176476 1 1415767075
+/
+crawl-66-249-69-215.googlebot.com
+0 3 1 3859 1 1416074129
+/
+101.226.168.239
+0 1 0 1148 0 0
+-
+h95-155-232-139.dynamic.se.alltele.net
+0 149 137 5103226 3 1416689196
+/galleryfortet1.htm
+93.55.40.216
+0 30 30 565123 1 1416785871
+/galleryguest2.htm
+101.226.167.195
+0 1 1 1761 1 1416789719
+/service.htm
+h235n11-um-a32.ias.bredband.telia.com
+0 11 11 771157 0 0
+-
+cust-82-99-106-235.alvsbyn.com
+0 48 41 2630627 1 1415484848
+/service.htm
+crawl-66-249-64-83.googlebot.com
+0 9 3 9526 6 1414943622
+/nyheter.htm
+109.169.69.108
+0 1 1 5917 1 1416800890
+/
+crawl-66-249-67-55.googlebot.com
+0 1 1 1563 1 1415760029
+/
+179-110-138-27.dsl.telesp.net.br
+0 23 23 1268309 1 1416611906
+/
+177-101-205.177.static.stech.net
+0 23 23 1268309 1 1416007207
+/
+bfb45618.virtua.com.br
+0 23 23 1268309 1 1416624111
+/
+crawl-192-99-107-118.meanpathbot.com
+0 2 1 2711 1 1415863981
+/
+173.252.105.115
+0 15 15 211038 0 0
+-
+net-2-34-217-42.cust.vodafonedsl.it
+0 23 23 1268309 1 1416749345
+/
+150-70-97-127.trendmicro.com
+0 1 0 1148 0 0
+-
+logotemplate.it
+0 3 0 3444 1 1415479845
+/
+81-224-188-64-no59.tbcn.telia.com
+0 97 84 4197639 1 1416952604
+/galleryarena1.htm
+200.146.34.20.static.gvt.net.br
+0 23 23 583011 1 1415212881
+/
+61.135.190.105
+0 3 3 7230 2 1416201647
+/
+c-6e42e253.41-11-64736c10.cust.bredbandsbolaget.se
+0 111 97 5042261 1 1416246934
+/info.htm
+194.71.254.6
+0 141 123 7109101 1 1415801663
+/contact.htm
+msnbot-157-55-39-185.search.msn.com
+0 2 1 1085720 0 0
+-
+msnbot-157-55-39-184.search.msn.com
+0 2 1 1085720 0 0
+-
+crawl-66-249-67-135.googlebot.com
+0 16 12 21089 10 1416851013
+/
+zt114.tfbnw.net
+0 1 1 5847 0 0
+-
+host-95-199-153-41.mobileonline.telia.com
+0 23 23 1268309 1 1415990351
+/
+66.211.241.83.in-addr.dgcsystems.net
+0 31 29 212066 1 1416401626
+/contact.htm
+boson000.ahrefs.com
+0 2 2 156114 1 1416855130
+/info.htm
+61.135.190.224
+0 6 6 11919 5 1416817244
+/
+crawl12.exabot.com
+0 20 10 27401 10 1416693122
+/info.htm
+173.252.81.117
+0 6 6 25586 0 0
+-
+213.50.26.140
+0 36 33 2655080 1 1415050244
+/service.htm
+msnbot-207-46-13-112.search.msn.com
+0 5 2 11487 1 1414874586
+/contact.htm
+173.252.122.116
+0 1 1 1738 0 0
+-
+101.243.150.27.broad.pt.fj.dynamic.163data.com.cn
+0 9 5 15572 3 1416947845
+/contact.htm/trackback/
+c-11a3e253.6906651--62697410.cust.bredbandsbolaget.se
+0 64 64 1642784 2 1416007475
+/contact.htm
+81-230-27-87-no59.bredband.skanova.com
+0 36 32 1429191 1 1415115206
+/contact.htm
+173.252.100.118
+0 3 3 10126 1 1416863879
+/
+msnbot-207-46-13-71.search.msn.com
+0 2 1 2711 1 1414886310
+/
+msnbot-199-30-25-220.search.msn.com
+0 22 22 1266746 0 0
+-
+tgn.188.18.102.dts.mg
+0 23 23 1268309 1 1416471664
+/
+81-235-204-95-no59.tbcn.telia.com
+0 151 21 1380930 1 1414872616
+/info.htm
+46-236-96-80.customer.t3.se
+0 23 23 1216982 1 1415532553
+/service.htm
+187-57-229-118.dsl.telesp.net.br
+0 23 23 795699 1 1415999120
+/
+31.13.99.116
+0 1 0 1148 1 1414861222
+/
+c-46-162-94-49.cust.bredband2.com
+0 191 142 8533979 1 1416048538
+/
+93-79-115-162.sumy.volia.net
+0 1 0 1148 0 0
+-
+61.135.190.104
+0 3 3 12312 0 0
+-
+h46-59-41-47.docsis.dyn.cust-ip.bdtv.se
+0 161 122 6691072 1 1416151219
+/contact.htm
+crawl-66-249-65-91.googlebot.com
+0 4 2 3126 4 1415518213
+/
+crawl-66-249-69-115.googlebot.com
+0 7 7 298835 2 1416643472
+/galleryguest1.htm
+cl-78-158-11-226.fastlink.lt
+0 3 3 25612 1 1416520286
+/galleryarena1.htm
+h46-59-43-156.docsis.dyn.cust-ip.bdtv.se
+0 96 91 3997485 1 1416858275
+/info.htm
+81-224-157-79-no225.tbcn.telia.com
+0 75 71 2657704 1 1416778938
+/info.htm
+31.44.232.164
+0 50 47 850813 1 1416771000
+/info.htm
+112.111.190.24
+0 20 10 33440 4 1416962393
+/contact.htm/trackback/
+c-9f2570d5.01-352-6c756c10.cust.bredbandsbolaget.se
+0 96 88 4636706 1 1415211610
+/
+insamling.kb.se
+0 374 348 22536420 2 1415925244
+/galleryguest2.htm
+host-95-195-142-201.mobileonline.telia.com
+0 33 33 1321712 1 1415106790
+/service.htm
+msnbot-157-55-39-240.search.msn.com
+0 2 1 2711 1 1415177422
+/
+92-244-6-25.customers.ownit.se
+0 45 45 3757217 1 1414946856
+/contact.htm
+host-95-195-200-117.mobileonline.telia.com
+0 79 76 4519945 1 1415460880
+/contact.htm
+222.133.82.110.broad.pt.fj.dynamic.163data.com.cn
+0 3 3 221223 2 1415117222
+/contact.htm/trackback/
+112.111.191.142
+0 1 1 5917 1 1416127132
+/
+baiduspider-220-181-108-174.crawl.baidu.com
+0 1 0 0 1 1415335314
+/
+ip-50-133-164-193.static.contabo.net
+0 2 2 10002 2 1416847227
+/
+145.200.178.107.gae.googleusercontent.com
+0 1 1 1563 1 1416056346
+/
+61.135.190.223
+0 4 4 11334 2 1415375061
+/
+boson060.ahrefs.com
+0 5 5 496885 0 0
+-
+173.252.105.114
+0 8 8 93492 0 0
+-
+125.60.156.151
+0 23 23 1268309 1 1416174446
+/
+90-230-124-102-no116.tbcn.telia.com
+0 23 23 1216982 1 1415527651
+/service.htm
+boson030.ahrefs.com
+0 2 2 276030 0 0
+-
+61.135.190.103
+0 6 6 14460 4 1416928896
+/
+host-10.tunnplat.ssab.se
+0 48 47 2763676 1 1415890641
+/birthdaycard.htm
+crawl-66-249-78-94.googlebot.com
+0 86 21 226106 59 1416974734
+/
+193.181.64.129
+0 133 123 6830179 1 1416220910
+/contact.htm
+173.252.122.121
+0 2 2 3990 0 0
+-
+static.2.214.9.5.clients.your-server.de
+0 1 1 5917 1 1416570877
+/
+host20.190-138-214.telecom.net.ar
+0 23 23 1268309 1 1416201329
+/
+158.85.94.4-static.reverse.softlayer.com
+0 3 0 3444 0 0
+-
+host-95-195-192-222.mobileonline.telia.com
+0 31 30 243866 1 1416398227
+/contact.htm
+msnbot-157-55-39-21.search.msn.com
+0 21 12 233063 9 1415746713
+/nyheter.htm
+c-6ab1e655.09-124-70697410.cust.bredbandsbolaget.se
+0 52 48 3103882 1 1415099956
+/info.htm
+c-252670d5.019-351-6c756c10.cust.bredbandsbolaget.se
+0 57 55 2032258 1 1415552041
+/galleryarena1.htm
+77.53.25.63
+0 137 113 4999913 1 1416772165
+/info.htm
+213.50.26.128
+0 158 149 7282582 2 1415533943
+/contact.htm
+fetcher10-3.p.mail.ru
+0 12 5 307908 0 0
+-
+msnbot-207-46-13-48.search.msn.com
+0 2 0 2296 1 1414809210
+-
+lan-84-240-9-6.vln.skynet.lt
+0 3 3 17751 1 1416383031
+/
+173.252.122.120
+0 3 3 26621 0 0
+-
+179-236-221-71.user.veloxzone.com.br
+0 23 23 1268309 1 1415548387
+/
+boson039.ahrefs.com
+0 7 7 668092 0 0
+-
+boson003.ahrefs.com
+0 1 1 1563 1 1414965717
+/
+179.176.14.84.dynamic.adsl.gvt.net.br
+0 20 20 369555 1 1415659201
+/
+m90-130-194-223.cust.tele2.se
+0 168 157 8360998 1 1414841366
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+209-222-8-59.constant.com
+0 1 1 1563 1 1417222457
+/
+boson048.ahrefs.com
+0 1 1 2196 1 1417248448
+/contact.htm
+crawl-66-249-67-155.googlebot.com
+0 2 2 4030 0 0
+-
+209-222-8-75.constant.com
+0 1 1 1563 1 1417222307
+/
+crawl-66-249-67-3.googlebot.com
+0 5 4 8024 2 1417279624
+/info.htm
+crawl-66-249-67-11.googlebot.com
+0 3 2 3897 2 1417291927
+/nyheter.htm
+# End Of Table - sites (daily)
+# -referrers- 
+http://d5516597.u46.surftown.se/nyheter.htm
+0 6
+http://d5516597.u46.surftown.se/birthdaycard.htm
+0 5
+http://area66.se/nyheter.htm
+1 11
+http://d5516597.u46.surftown.se/contact.htm
+0 10
+http://www.aventyrsfortet.se/
+0 1
+http://area66.se/info.htm
+1 30
+http://d5516597.u46.surftown.se/galleryguest1.htm
+0 37
+http://area66.se/index_htm_files/highslide.css
+1 11
+http://semalt.semalt.com/crawler.php
+0 40
+https://www.google.com.do/
+0 2
+http://www.area66.se/nyheter.htm
+1 758
+http://www.area66.se/index_htm_files/highslide.css
+1 129
+http://www.area66.se/index_htm_files/roe.js
+1 1
+http://d5516597.u46.surftown.se/galleryfortet1.htm
+0 6
+http://www.google.com/url
+0 9
+https://www.google.com.au/
+0 1
+http://www.mainlinehobby.net/cgi-bin/commerce.cgi
+0 1
+http://www.google.se/search
+0 2
+https://www.google.fi/
+0 1
+http://whois.domaintools.com/area66.se
+1 2
+http://www.google.com/search
+0 24
+http://www.area66.se/index.htm
+1 139
+http://buttons-for-website.com
+0 23
+http://www.area66.se/galleryguest1.htm
+1 1785
+http://area66.se/galleryfortet1.htm
+1 14
+http://l.facebook.com/lsr.php
+0 2
+http://se.search.yahoo.com/search
+0 1
+http://r.search.yahoo.com/_ylt
+0 1
+http://area66.se/index_htm_files/highslide.js
+1 7
+http://d5516597.u46.surftown.se/index_htm_files/highslide.css
+0 11
+https://www.facebook.com/
+0 1
+http://www.google.com/blank.html
+0 1
+http://www.activated.se/lasergame/boden/area-lasergame-66.html
+0 5
+http://area66.se/service.htm
+1 17
+http://www.area66.se/
+1 7452
+http://www.upplevboden.nu/produkt/aktiviteter/lasergame-area-66/
+0 5
+http://d5516597.u46.surftown.se/index_htm_files/highslide.js
+0 7
+https://www.google.com/
+0 3
+- (Direct Request)
+0 3478
+http://www.aventyrsfortet.se/links.html
+0 5
+http://www.area66.se/galleryguest2.htm
+1 6
+https://www.google.se/
+0 210
+http://www.hitta.se/area+lasergame+66+och+café/boden/izMZ41GoJA
+0 6
+http://www.bing.com/search
+0 4
+http://www.area66.se/info.htm
+1 3179
+http://www.barnsemester.se/
+0 3
+http://www.google.se/blank.html
+0 1
+http://www.google.se/
+0 113
+http://d5516597.u46.surftown.se/galleryarena1.htm
+0 39
+http://area66.se/galleryguest2.htm
+1 16
+http://area66.se/birthdaycard.htm
+1 5
+http://www.aventyrsfortet.se/index.html
+0 1
+http://www.google.se/url
+0 70
+http://www.area66.se/galleryfortet1.htm
+1 577
+http://www.area66.se/robots.txt
+1 5
+area66.se/
+1 1
+https://www.google.as/
+0 1
+http://area66.se/
+1 1604
+http://www.area66.se/service.htm
+1 1229
+http://www.area66.se/birthdaycard.htm
+1 138
+https://m.facebook.com
+0 5
+http://yandex.ru/yandsearch
+0 2
+http://d5516597.u46.surftown.se/
+0 27
+http://area66.se/index_htm_files/roe.js
+1 2
+http://www.area66.se/galleryarena1.htm
+1 5189
+http://www.baidu.com/s
+0 21
+http://d5516597.u46.surftown.se/info.htm
+0 14
+http://d5516597.u46.surftown.se/service.htm
+0 6
+http://image.baidu.com/i
+0 2
+http://area66.se
+1 1
+http://area66.se/contact.htm
+1 21
+http://area66.se/galleryguest1.htm
+1 149
+https://www.google.no/
+0 4
+http://d5516597.u46.surftown.se/index_htm_files/roe.js
+0 1
+http://www.area66.se/++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Result:+it+is+not+a+forum+/+guestbook+(or+no+connection+to+internet)+Result:+it+is+not+a+forum+/+guestbook+(or+no+connection+to+internet)
+1 1
+http://www.area66.se/contact.htm
+1 2746
+http://d5516597.u46.surftown.se/galleryguest2.htm
+0 16
+http://www.facebook.com/l.php
+0 1
+http://area66.se/galleryarena1.htm
+1 198
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/4.2.2.38484 Mobile/11D25
+0 36
+Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/35.0.1916.41 Mobile/11D167 Safari
+0 120
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Saf
+0 449
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; SMJB; rv:11.0) like Gecko
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:33.0) Gecko/20100101 Firefox/33.0
+0 129
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 115
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0; BOIE9;SVSE)
+0 75
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 YaBrowser/14.7.1916.15705 Saf
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 17
+Mozilla/5.0 (Linux; U; Android 4.4.2; sv-se; LG-D315 Build/KOT49I.A1397692371) AppleWebKit/537.36 (KHTML, like Gecko) Version
+0 85
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/536.25 (KHTML, like Gecko) Version/6.0 Safari/536.25
+0 393
+curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.15.3 zlib/1.2.3 libidn/1.18 libssh2/1.4.2
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 96
+Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
+0 14
+Mozilla/5.0 (compatible; meanpathbot/1.0; +http://www.meanpath.com/meanpathbot.html)
+0 16
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MAPBJS; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; D6503 Build/23.0.1.A.0.167) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mo
+0 153
+Mozilla/5.0 (Linux; Android 4.4.4; D5503 Build/14.4.A.0.108) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobi
+0 30
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36 OPR/23.0.1522.7
+0 3
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 273
+Mozilla/5.0 (iPad; CPU OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Safari/9537
+0 186
+visionutils/0.2
+0 5
+Mozilla/5.0 (iPad; CPU OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safari/600.1.4
+0 49
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 [FBAN/FBIOS;FBAV/
+0 46
+Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0
+0 142
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 23
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.0
+0 101
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 267
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/4.2.2.38484 Mobile/12B410 Safari/95
+0 23
+Mozilla/5.0 (Linux; Android 4.4.2; D2403 Build/18.3.C.0.37) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobile
+0 79
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 155
+Mozilla/5.0 (Windows NT 6.1; rv:13.0) Gecko/20100101 Firefox/13.0.1
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D315 Build/KOT49I.A1397692371) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.
+0 5
+Java/1.7.0_67
+0 30
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/6.2 Safari/537.85.10
+0 3
+Mozilla/5.0 (Linux; U; Android 4.2.2; sv-se; GT-P5210 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/
+0 73
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0; BOIE9;SVSE)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 108
+Mozilla/5.0 (compatible; kulturarw3 +http://www.kb.se/om/projekt/Svenska-webbsidor---Kulturarw3/)
+0 374
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 106
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 151
+Mozilla/5.0 (Linux; Android 4.1.2; GT-N8000 Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Safari/
+0 96
+Mozilla/5.0 (Linux; U; Android 4.0.4; de-at; GT-I9100 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9505 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobile 
+0 37
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 56
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MASEJS; rv:11.0) like Gecko
+0 141
+Mozilla/5.0 (iPad; CPU OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.5
+0 193
+curl/7.15.5 (i386-redhat-linux-gnu) libcurl/7.15.5 OpenSSL/0.9.8b zlib/1.2.3 libidn/0.6.5
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36
+0 161
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a S
+0 137
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 1274
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36
+0 24
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.56 Safari/536.5
+0 1
+Icarus6j - (contact: phil@icarus6.com)
+0 2
+Java/1.6.0_04
+0 60
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; MAPBJS; rv:11.0) like Gecko
+0 38
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4
+0 36
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 12
+MobileSafari/8536.25 CFNetwork/609.1.4 Darwin/13.0.0
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 97
+Mozilla/5.0 (Linux; U; Android 4.2.2; sv-se; GT-S7580 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 168
+Mozilla/5.0 (X11; U; OpenBSD i386; en-US; rv:1.8.0.5) Gecko/20060819 Firefox/1.5.0.5
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobile 
+0 196
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0
+0 94
+Opera/9.80 (Windows NT 6.1; Win64; x64) Presto/2.12.388 Version/12.16
+0 3
+curl/7.15.5 (x86_64-redhat-linux-gnu) libcurl/7.15.5 OpenSSL/0.9.8b zlib/1.2.3 libidn/0.6.5
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; C6903 Build/14.4.A.0.157) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobil
+0 119
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/4.2.2.38484 Mobile/12A40
+0 52
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MASEJS; rv:11.0) like Gecko
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 235
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 8
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9505 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobile S
+0 50
+Mozilla/5.0 (Linux; U; Android 4.3; sv-se; GT-I9300 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 187
+Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15
+0 42
+Mozilla/5.0 (Linux; U; Android 1.6; en-us; xpndr_ihome Build/DRD35) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobi
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 24
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0); 360Spider
+0 22
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 579
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 619
+MobileSafari/600.1.4 CFNetwork/711.1.12 Darwin/14.0.0
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 79
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 349
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/6.1.5 Safari/537.77.4
+0 119
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 4
+Mozilla/5.0 (Linux; U; Android 4.2.1; sv-se; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mo
+0 110
+Mozilla/5.0 (Linux; Android 4.4.4; D5803 Build/23.0.A.2.93) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobile
+0 31
+OpenWebSpider v0.1.2.B (http://www.openwebspider.org/)
+0 16
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Sa
+0 69
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 402
+Baiduspider-image+(+http://www.baidu.com/search/spider.htm)
+0 7
+phpSiteCheck 1.0. Powered by ServiceUptime.com
+0 1
+Mozilla/5.0 (X11; Linux) KHTML/4.9.1 (like Gecko) Konqueror/4.9
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; Android 2.3.6; sv-se; GT-S5660 Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mo
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP06; rv:11.0) like Gecko
+0 6
+Mozilla/5.0 (Linux; U; Android 4.3; sv-se; GT-I9305 Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 406
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 112
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1; 360Spider
+0 12
+Mozilla/5.0 (Linux; U; Android 4.1.2; sv-se; GT-I9100 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 37
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.68 Safari/534.30
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 [FBAN/MessengerFo
+0 29
+Mozilla/5.0 (Linux; U; Android 4.1.2; sv-se; GT-I9070 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 46
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Sa
+0 768
+Mozilla/5.0 (Linux; Android 4.4.2; sv-se; SAMSUNG SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.6 C
+0 235
+Mozilla/5.0 (Linux; Android 4.4.2; sv-se; SAMSUNG SM-N9005 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 C
+0 78
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.1) Gecko/20061204 Firefox/2.0.0.1
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 
+0 114
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.124 Safari/537.36
+0 62
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 2113
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 9
+Mozilla/5.0 (Linux; Android 4.4.3; HTC One Build/KTU84L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobile S
+0 144
+Mozilla/5.0 (Windows NT 6.1; rv:2.0b6pre) Gecko/20100903 Firefox/4.0b6pre Firefox/4.0b6pre
+0 1
+Lynx/2.8.5rel.1 libwww-FM/2.15FC SSL-MM/1.4.1c OpenSSL/0.9.7e-dev
+0 3
+Googlebot-Image/1.0
+0 82
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
+0 9
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:14.0) Gecko/20120405 Firefox/14.0a1
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.
+0 82
+Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)
+0 10
+Mozilla/5.0 (Linux; Android 4.4.2; D6503 Build/17.1.2.A.0.314) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.141 Mo
+0 87
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 92
+Mozilla/5.0 (iPad; CPU OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B651 Safari/9537
+0 87
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_6 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B651 Sa
+0 86
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/24.0.1309.0 Safari/537.17
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B511 Sa
+0 75
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 912
+Mozilla/5.0 (Linux; Android 4.4.2; C6903 Build/14.3.A.0.757) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobil
+0 95
+Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+0 20
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de-LI; rv:1.9.0.16) Gecko/2009120208 Firefox/3.0.16 (.NET CLR 3.5.30729)
+0 3
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36 OPR/23.0.1522.7
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1
+0 1
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2)
+0 11
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 661
+Mozilla/5.0 (iPad; CPU OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A405 Safari/600.1
+0 58
+Mozilla/5.0 (Linux; Android 4.4.2; sv-se; SAMSUNG GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 C
+0 29
+Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)
+0 32
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9506 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobile S
+0 117
+Mozilla/5.0 (Linux; Android 4.4.4; C6903 Build/14.4.A.0.157) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobi
+0 24
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A365 Safar
+0 201
+Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.2
+0 56
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.
+0 120
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 Safari/537.36
+0 24
+Mozilla/5.0 (Linux; Android 4.4.2; sv-se; SAMSUNG GT-I9505 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 C
+0 86
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Sa
+0 288
+Mozilla/5.0 (Linux; Android 4.2.2; GT-I9295 Build/JDQ39) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile S
+0 65
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D257 Safari/9537
+0 374
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.65 Safari/537.36
+0 362
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; )
+0 37
+Mozilla/5.0 (compatible; SiteExplorer/1.0b; +http://siteexplorer.info/)
+0 6
+Mozilla/5.0 (compatible; spbot/4.3.0; +http://OpenLinkProfiler.org/bot )
+0 13
+Mozilla/5.0 (X11; Linux i686; rv:13.0) Gecko/20100101 Firefox/13.0.1
+0 1
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4
+0 538
+Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
+0 108
+Mozilla/5.0 (Linux; Android 4.4.4; D5503 Build/14.4.A.0.157) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobil
+0 85
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 606
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648
+0 31
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
+0 61
+Mozilla/5.0 (Linux; Android 4.4.4; D5803 Build/23.0.A.2.93) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobil
+0 46
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/4.2.2.38484 Mobile/12B411 
+0 73
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 259
+Mozilla/5.0 (Windows; U; Windows NT 5.1; sv-SE; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729) FBSMTWB
+0 252
+Mozilla/5.0 (X11; CrOS x86_64 6158.70.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.110 Safari/537.36
+0 24
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 4
+Mozilla/5.0 (Linux; U; Android 4.4.2; sv-se; SM-T310 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/
+0 24
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B435 [FBAN/Messenger
+0 23
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.1.17 (KHTML, like Gecko) Version/7.1 Safari/537.85.10
+0 175
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 10
+Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20110319 Firefox/4.0
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 14
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/38.0.2125.67 Mobile/12B410 Safari/
+0 25
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 [FBAN/FBIOS;FBAV
+0 23
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 30
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B
+0 20
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 75
+Mozilla/5.0 (Windows NT 5.1; rv:32.0) Gecko/20100101 Firefox/32.0
+0 48
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) GSA/4.2.2.38484 Mobile/11D257 Safari/
+0 95
+Mozilla/5.0 (Linux; Android 4.4.2; D6503 Build/17.1.2.A.0.314) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mo
+0 30
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) CriOS/38.0.2125.59 Mobile/12B410 Safari/
+0 118
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) GSA/3.2.1.25875 Mobile/10B329 
+0 23
+Mediapartners-Google
+0 21
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36 OPR/25.0.1614.6
+0 72
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+0 39
+Mozilla/5.0 (compatible; Lipperhey SEO Service; http://www.lipperhey.com/)
+0 13
+Mozilla/5.0 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B554a Safari/953
+0 127
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_1) AppleWebkit/535.1 (KHTML, like Gecko) Chrome/13.0.782.215 Safari/535.1
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; C6903 Build/14.4.A.0.108) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobi
+0 70
+Mozilla/5.0 (iPad; CPU OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.5
+0 145
+Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) CriOS/38.0.2125.67 Mobile/11D257 Safa
+0 3
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0)
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_5 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Mobile/11B601 [FBAN/FBIOS;FB
+0 23
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0; MASMJS)
+0 2
+nutch-1.4/Nutch-1.4
+0 4
+Mozilla/5.0 (Linux; U; Android 4.0.4; sv-se; SonyST21i Build/11.0.A.4.22) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 
+0 36
+node.io
+0 1
+msnbot/1.0 (+http://search.msn.com/msnbot.htm)
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 76
+Mozilla/5.0 (iPad; CPU OS 5_1_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48
+0 23
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:32.0) Gecko/20100101 Firefox/32.0
+0 31
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B411 Safar
+0 1023
+Mozilla/5.0 (Linux; U; Android 4.1.2; sv-se; GT-N5120 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari
+0 57
+Mozilla/5.0 (Linux; U; Android 4.4.2; sv-se; SM-G3815 Build/KOT49H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 145
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_5 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11B601 Sa
+0 69
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+0 37
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+0 24
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0; MASMJS)
+0 106
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
+0 241
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 YaBrowser/14.7.1916.15705 Saf
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+0 69
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_4 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B350 Safa
+0 93
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+0 9
+Mozilla/5.0 (Linux; Android 4.4.2; SM-N9005 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobile 
+0 134
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 37
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/23.0.1271.17 Safari/537.11
+0 3
+Mozilla/5.0 (Linux; Android 4.4.4; D6603 Build/23.0.A.2.93) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.114 Mobil
+0 86
+Mozilla/5.0 (Linux; Android 4.4.4; A0001 Build/KTU84Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobile Safa
+0 197
+=Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16
+0 7
+Mozilla/5.0 (iPad; CPU OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A501 Safari/9537
+0 219
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:33.0) Gecko/20100101 Firefox/33.0
+0 62
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/7.0.6 Safari/537.78.2
+0 135
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 3
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 101
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safa
+0 161
+Mozilla/5.0 (Windows NT 6.0; rv:33.0) Gecko/20100101 Firefox/33.0
+0 143
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 174
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.78.2 (KHTML, like Gecko) Version/6.1.6 Safari/537.78.2
+0 107
+Mozilla/5.0 (Linux; U; Android 4.1.2; sv-se; GT-I8730 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 52
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET C
+0 1
+Wget/1.15 (linux-gnu)
+0 1
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+0 9
+Mozilla/5.0 (X11; Linux i686; rv:21.0) Gecko/20100101 Firefox/21.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:33.0) Gecko/20100101 Firefox/33.0
+0 47
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/24.0.1290.1 Safari/537.13
+0 3
+Mozilla/5.0 (iPad; CPU OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D201 Safari/9537
+0 167
+Java/1.6.0_39
+0 30
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.136
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G900F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobile S
+0 85
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 5
+Mozilla/5.0 (Windows NT 5.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 25
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
+0 105
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 195
+Mozilla/5.0 (Linux; Android 4.4.2; sv-se; SAMSUNG GT-I9506 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5 C
+0 261
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 574
+Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.17
+0 6
+Mozilla/5.0 (X11; Linux x86_64; rv:18.0) Gecko/20100101 Firefox/18.0
+0 4
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 37
+Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+0 1
+Mozilla/5.0 (Linux; U; Android 4.1.2; sv-se; GT-I8190N Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 255
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 70
+Mozilla/5.0 (Linux; Android 4.4.4; D6503 Build/23.0.1.A.0.167) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mob
+0 76
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 3
+Riddler (http://riddler.io/about)
+0 2
+Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B435 Saf
+0 304
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 1080
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/12A3
+0 59
+Mozilla/5.0 (compatible; SemrushBot/0.98~bl; +http://www.semrush.com/bot.html)
+0 3
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~getfavicon27)
+0 2
+CakePHP
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36
+0 99
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36 OPR/23.0.1522.77
+0 9
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 160
+Java/1.4.1_04
+0 60
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safa
+0 64
+MobileSafari/9537.53 CFNetwork/672.1.14 Darwin/14.0.0
+0 4
+LSSRocketCrawler/1.0 LightspeedSystems
+0 14
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; D5503 Build/14.4.A.0.108) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobil
+0 87
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.2; .NET4.0C)
+0 88
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 225
+# End Of Table - agents
+# -search strings- 
+www.area66.se
+1
+lasergame boden
+3
+lasergame
+1
+area66.se
+24
+area 66
+2
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
