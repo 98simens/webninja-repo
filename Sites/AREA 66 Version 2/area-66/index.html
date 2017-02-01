@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AREA 66</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script src="js/jquery-3.1.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/unslider-min.js"></script>
+        <script src="js/main.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="css/icofont.css"/>
+        <link rel="stylesheet" type="text/css" href="css/unslider.css"/>
+        <link rel="stylesheet" type="text/css" href="css/unslider-dots.css"/>
+        <link rel="stylesheet" type="text/css" href="css/style.css"/>
+        <link rel="stylesheet" type="text/css" href="css/navigation.css"/>
+    </head>
+    <body>
+        <nav class="navbar navbar-default navbar-fixed-top wn-navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#" onclick="scrollTo('home');">AREA 66</a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mobileNav">
+                        <i class="icofont icofont-navigation-menu"></i>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="mobileNav">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#/" onclick="scrollTo('welcome');">Välkommen</a></li>
+                        <li><a href="#/" onclick="scrollTo('images');">Bilder</a></li>
+                        <li><a href="#/" onclick="scrollTo('offers');">Tjänster</a></li>
+                        <li><a href="#/" onclick="scrollTo('locationmap');">Karta</a></li>
+                        <li><a href="#/" onclick="scrollTo('fort');">Fortet</a></li>
+                        <li><a href="#/" onclick="scrollTo('infofooter');">Kontakta oss</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div id="home" class="wn-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-md-offset-3 wn-center">
+                        <img class="wn-header-brand" src="images/area66-logga-trimmad.png" alt="AREA 66"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="welcome" class="container">
+            <div class="row">
+                <div class="col-md-12 wn-textcontainer">
+                    <div>
+                        <h1>Vill du ha lösningen för Företagsfesten, Barnkalaset, Svensexan, Möhippan eller om du vill lira en helt vanlig kväll?</h1>
+                        <hr class="wn-sl"/>
+                        <p>Hos oss kan du bland annat spela Lasergame, vilket passar nästan alla åldrar. Vi rekommenderar däremot att de som spelar är över 6 år gamla.</p>
+                        <p>Vi använder oss av ett system som heter VEQTOR MAXblaster vilket är ett radiobaserat system. Det tillåter gästerna som sitter i cafeterian att se hur poängen förändras för de spelande.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="images" class="container">
+            <div class="row">
+                <div class="col-md-12 wn-imgslider">
+                    <div>
+                        <ul>
+                            <li><img src="images/lobby1.JPG"/></li>
+                            <li><img src="images/matsal1.JPG"/></li>
+                            <li><img src="images/rum1.JPG"/></li>
+                            <li><img src="images/arena1.JPG"/></li>
+                        </ul>
+                        <p onclick="imgslider('prev');" id="wn-imgprev"><span class="glyphicon glyphicon-chevron-left"></span></p>
+                        <p onclick="imgslider('next');" id="wn-imgnext"><span class="glyphicon glyphicon-chevron-right"></span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="offers" class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-xs-12 wn-offers">
+                    <div class="thumbnail">
+                        <h1>Mat</h1>
+                        <hr class="wn-sl"/>
+                        <p>Fläskfilé och potatisgratäng - 200:-/person</p>
+                        <p>Oxfilé och potatisgratäng - 250:-/person</p>
+                        <p>Vegitariska alternativ finns, ring för meny.</p>
+                        <p>Kontakta oss för att boka mat.</p>
+                        <p>Det går att betala med kort!</p>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12 wn-offers">
+                    <div class="thumbnail">
+                        <h1>Lasergame</h1>
+                        <hr class="wn-sl"/>
+                        <p>3 Spel - 150:-/person</p>
+                        <p>Vid bokat barnkalas (minst 8st) ingår även ett fika (dricka + gobit) i priset.</p>
+                        <p>Dricka/Kaffe + Gobit - 25:-</p>
+                        <br/>
+                        <p>OBS! Endast tidsbokning gäller! (Ej Drop in tider)</p>
+                        <p>Avbokar man inte senast 1 dag före bokad tid, debiteras 900:- som fast ersättning. Om man inte kommer på uppbokad tid debiteras den totala kostnaden för hela bokningen.</p>
+                        <p>Det går att betala med kort!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="locationmap" class="container">
+            <div class="row">
+                <div class="col-md-12 wn-mapsection">
+                    <div id="local-map">
+                        <div id="map"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="fort" class="container">
+            <div class="row">
+                <div class="col-md-12 wn-about">
+                    <div>
+                        <h1>Fortet</h1>
+                        <hr class="wn-sl"/>
+                        <p>Lasergame Arenan är beläget mitt inne i ett berg. Lokalerna ligger ca 100m inne i berget och var från början en atombombssäker civilförsvarsanläggning, där brandkår, polis och kommunledning skulle leda och styra kommunen om det blev ofred. Anläggningen är byggd i två våningar ca 800m<sup>2</sup> som står på gummikuddar för att vara helt fristående från berget.</p>
+                        <a href="#/" id="showmore" onclick="aboutmore('show');"><u>Klicka här för att se mer!</u></a>
+                        <span class="wn-about-more" style="display: none;">
+                            <p>För att ta sig in till arenan måste du gå genom en lång tunnel som avslutas med en stor ståldörr. Efter att du passerat ståldörren så kommer du till gasslussen. Den skulle göra inpassagen säker och om det behövdes även sanera de inpasserande innan de tog sig in i bergrummet.</p>
+                            <p>När du väl har tagit dig in på vår arena. Så har du en spelplansom har en yta på ca 400m<sup>2</sup> och den är uppdelad i 15 olika rum som är temasatta för att likna ett rymdskepp. T.ex finner ni en cargo bay, ion core, laser turrets och ett laboratorium där man har experimenterat på en Alien.. På den övre våningen finns ett Cafe med Star wars-tema som säljer fika/godis av olika slag. I anslutning till Cafet finns även en kombinerad mat och konferensdel som gör det möjligt att äta en god middag innan man går ner till Arenan och spelar. </p>
+                            <p>Är det första gången som du besöker oss så gäller det att vara extra försiktigt när man tar sig in, för man vet ju aldrig vad som döljer sig runt nästa hörn..</p>
+                            <a href="#/" id="hidemore" onclick="aboutmore('hide');"><u>Klicka här för att se mindre!</u></a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="infofooter" class="container-fluid wn-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 wn-footerheader">
+                        <h1>Kontakta oss</h1>
+                        <hr class="wn-sl"/>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-xs-12 wn-footerbox">
+                        <p><b>Våra öppettider är:</b></p>
+                        <p>Mån - Fre 17:00 - 22:00</p>
+                        <p>Lör - Sön 12:00 - 22:00</p>
+                        <br/>
+                        <p><b>Besöksadress:</b></p>
+                        <p>AREA 66/Sävastklinten</p>
+                        <p>Se kartan!</p>
+                        <br/>
+                    </div>
+                    <div class="col-md-4 col-xs-12 wn-footerbox">
+                        <p><strong>För att göra en bokning ber vi er kontakta oss på mobilen, fasta telefonen eller e-post.</strong></p>
+                        <br/>
+                        <a href="https://www.facebook.com/area66boden/"><i class="icofont icofont-social-facebook"></i> Besök våran facebook sida!</a>
+                        <br/>
+                    </div>
+                    <div class="col-md-4 col-xs-12 wn-footerbox">
+                        <p><i class="icofont icofont-ui-email"></i> info@area66.se</p>
+                        <p><i class="icofont icofont-phone"></i> 0921-10641</p>
+                        <p><i class="icofont icofont-ui-touch-phone"></i> 070-680 04 08</p>
+                        <br/>
+                        <p><b>Postadress:</b></p>
+                        <p>AREA 66</p>
+                        <p>co / Fällvägen 3</p>
+                        <p>961 40 Boden</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUI-0uTLfgiVA7FM-pdIqY_6NnuGK2m88&callback=initMap"></script>
+    </body>
+</html>
