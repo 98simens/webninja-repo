@@ -1,0 +1,19 @@
+.wn-navigation {
+    background-color: #25252F;
+    border-color: #9AB0A2;
+    z-index: 10000;
+}
+
+
+.wn-navigation * button[type="button"]:hover, button[type="button"]:focus {
+    background-color: #212121;
+    border-color: #9AB0A2;
+}
+
+.wn-navigation * .navbar-toggle {
+    border-color: #9AB0A2;
+}
+
+.wn-navigation * .navbar-collapse {
+    border-color: #9AB0A2;
+}

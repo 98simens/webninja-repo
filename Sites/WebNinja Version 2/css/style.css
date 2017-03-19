@@ -1,5 +1,21 @@
+@font-face{
+  font-family: roboto;
+  src: url("../fonts/Roboto-Regular.ttf");
+}
+
+@font-face{
+  font-family: Geo_sans;
+  src: url("../fonts/GeosansLight.ttf");
+}
+
+@font-face{
+  font-family: Elegance;
+  src: url("../fonts/Rounded_Elegance.ttf");
+}
+
 body {
     background-color: #FFF;
+    font-family: Elegance;
 }
 
 .wn-hr {
@@ -100,4 +116,51 @@ body {
     min-height:400px;
     background-color:#f2f2f2;
     text-align: center;
+    padding-bottom:50px;
+}
+
+#about img{
+  width:100%;
+}
+
+.wn-about_img_cont{
+  overflow:hidden;
+  height:400px;
+  padding:0;
+}
+
+.wn-about-text{
+  background-color: #ccc;
+  color:white;
+  height: 400px;
+  padding-top:30px;
+}
+
+.wn-about-text h3{
+  margin: 0px 0 20px 0;
+}
+
+
+footer{
+  background-color: #ccc;
+  padding:10px 0 ;
+}
+
+footer img{
+  width:100%;
+}
+
+footer i{
+  font-size:150%;
+}
+
+footer a{
+  color:black;
+  text-decoration: none;
+  transition: 300ms;
+}
+
+footer a:hover{
+  color:#900;
+  text-decoration: none;
 }

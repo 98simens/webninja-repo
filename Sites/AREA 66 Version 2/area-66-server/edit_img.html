@@ -1,0 +1,64 @@
+## -*- coding: utf-8 -*-
+<!DOCTYPE html>
+
+<html charset="UTF-8">
+<head>
+<title>Bilder</title>
+<script src="/js/jquery-3.1.0.min.js"></script>
+</head>
+<body>
+
+<form method="POST" action="AddImg" enctype="multipart/form-data">
+<h1>Ny Bild</h1>
+<span>Namn (Beskriv vad bilden innehåller):</span>
+<input name="src" type="text" style="width:300px"/>
+<span id="taken" style="color:red;">Upptaget filnamn</span><br/>
+<br/>
+<br/>
+<input type="file" name="content" />
+<button type="submit">Send</button>
+</form>
+<hr/>
+%for item in attributes:
+
+<form method="POST" action="EditImg" enctype="multipart/form-data">
+<h1>Nuvarande</h1>
+<img style="width:50%;" src="${item[1]}?v=${item[2]}" />
+<br/>
+<br/>
+<input name="contentID" type="text" value='${item[0]}' style="display:none"/>
+<input name="src" type="text" value='${item[1]}' style="display:none"/>
+<input type="file" name="content" />
+<span>Ta bort(skriv JA):</span>
+<input type="text" name="remove" /><br/><br/>
+<button type="submit">Send</button>
+</form>
+<hr/>
+%endfor
+
+<script>
+function GetURLParameter(sParam){
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++)
+    {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam)
+        {
+            return sParameterName[1];
+        }
+    }
+}
+if(GetURLParameter("f") !== undefined){
+	$("#taken").css({
+	"display":"initial"
+	});
+}
+else{
+	$("#taken").css({
+	"display":"none"
+	});
+}
+</script>
+</body>
+</html>

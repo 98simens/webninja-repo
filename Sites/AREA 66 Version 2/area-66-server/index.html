@@ -1,0 +1,149 @@
+# -*- coding: utf-8 -*-
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>${attributes[0]}</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script src="js/jquery-3.1.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/unslider-min.js"></script>
+        <script src="js/main.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" type="text/css" href="css/icofont.css"/>
+        <link rel="stylesheet" type="text/css" href="css/unslider.css"/>
+        <link rel="stylesheet" type="text/css" href="css/unslider-dots.css"/>
+        <link rel="stylesheet" type="text/css" href="css/style.css"/>
+        <link rel="stylesheet" type="text/css" href="css/navigation.css"/>
+    </head>
+    <body>
+        <nav class="navbar navbar-default navbar-fixed-top wn-navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand" href="#" onclick="scrollTo('home');">AREA 66</a>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#mobileNav">
+                        <i class="icofont icofont-navigation-menu"></i>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="mobileNav">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="#/" onclick="scrollTo('welcome');">Välkommen</a></li>
+                        <li><a href="#/" onclick="scrollTo('images');">Bilder</a></li>
+                        <li><a href="#/" onclick="scrollTo('offers');">Tjänster</a></li>
+                        <li><a href="#/" onclick="scrollTo('locationmap');">Karta</a></li>
+                        <li><a href="#/" onclick="scrollTo('fort');">Fortet</a></li>
+                        <li><a href="#/" onclick="scrollTo('infofooter');">Kontakta oss</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div id="home" class="wn-header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-md-offset-3 wn-center">
+                        <img class="wn-header-brand" src="images/area66-logga-trimmad.png" alt="AREA 66"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="welcome" class="container">
+            <div class="row">
+                <div class="col-md-12 wn-textcontainer">
+					<div>
+						${attributes[1]}
+						<hr class="wn-sl"/>
+						${attributes[2]}
+					</div>
+                </div>
+            </div>
+        </div>
+        <div id="images" class="container">
+            <div class="row">
+                <div class="col-md-12 wn-imgslider">
+                    <div>
+                        <ul>
+                            %for img in attributes["Images"]:
+								<li><img src="${img[1]}?v=${img[2]}"/></li>
+							%endfor
+                        </ul>
+                        <p onclick="imgslider('prev');" id="wn-imgprev"><span class="glyphicon glyphicon-chevron-left"></span></p>
+                        <p onclick="imgslider('next');" id="wn-imgnext"><span class="glyphicon glyphicon-chevron-right"></span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="offers" class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-xs-12 wn-offers">
+                    <div class="thumbnail">
+                        <h1>Lasergame</h1>
+                        <hr class="wn-sl"/>
+						${attributes[3]}
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-xs-12 wn-offers">
+                    <div class="thumbnail">
+                        <h1>Mat</h1>
+                        <hr class="wn-sl"/>
+						${attributes[4]}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="locationmap" class="container">
+            <div class="row">
+                <div class="col-md-12 wn-mapsection">
+                    <div id="local-map">
+                        <div id="map"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="fort" class="container">
+            <div class="row">
+                <div class="col-md-12 wn-about">
+                    <div>
+                        <h1>Fortet</h1>
+                        <hr class="wn-sl"/>
+                        ${attributes[5]}
+                        <a href="#/" id="showmore" onclick="aboutmore('show');"><u>Klicka här för att se mer!</u></a>
+                        <span class="wn-about-more" style="display: none;">
+                            ${attributes[6]}
+                            <a href="#/" id="hidemore" onclick="aboutmore('hide');"><u>Klicka här för att se mindre!</u></a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="infofooter" class="container-fluid wn-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 wn-footerheader">
+                        <h1>Kontakta oss</h1>
+                        <hr class="wn-sl"/>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-xs-12 wn-footerbox">
+                        ${attributes[7]}
+                    </div>
+                    <div class="col-md-4 col-xs-12 wn-footerbox">
+                        ${attributes[8]}
+                        <br/>
+                        <a target="_blank" href="https://www.facebook.com/area66boden/"><i class="icofont icofont-social-facebook"></i> Besök våran facebook sida!</a>
+                        <br/>
+                    </div>
+                    <div class="col-md-4 col-xs-12 wn-footerbox">
+                        <p><i class="icofont icofont-ui-email"></i> <a href="mailto:${attributes[9]}">${attributes[9]}</a></p>
+						<p><i class="icofont icofont-ui-touch-phone"></i> <a href="${attributes[10]}">${attributes[10]}</a></p>
+                        <p><i class="icofont icofont-phone"></i> <a href="tel:${attributes[11]}">${attributes[11]}</a></p>
+                        <br/>
+                        ${attributes[12]}
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBUI-0uTLfgiVA7FM-pdIqY_6NnuGK2m88&callback=initMap"></script>
+    </body>
+</html>
